@@ -1,5 +1,5 @@
 import { Hono } from 'hono'
-import leaderboard from '../db/leaderboard.jsonx'
+import leaderboard from '../db/leaderboard.json'
 const app = new Hono()
 
 app.get('/', (ctx) => {
