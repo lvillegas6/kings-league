@@ -63,5 +63,5 @@ async function getLeaderBoard() {
 }
 
 const leaderboard = await getLeaderBoard()
-console.log('Deploys', leaderboard)
+console.log('Deploys')
 await writeDBFile('leaderboard.json', leaderboard)
