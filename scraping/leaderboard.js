@@ -1,31 +1,19 @@
-import * as cheerio from 'cheerio'
-import { writeDBFile, TEAMS, PRESIDENTS } from '../db/index.js'
 
-const URLS = {
-  leaderboard: 'https://kingsleague.pro/clasificacion/'
+import { TEAMS, PRESIDENTS } from '../db/index.js'
+import { cleanText } from './utils.js'
+
+const LEADERBOARD_SELECTORS = {
+  team: { selector: '.fs-table-text_3', typeOf: 'string' },
+  wins: { selector: '.fs-table-text_4', typeOf: 'number' },
+  loses: { selector: '.fs-table-text_5', typeOf: 'number' },
+  scoredGoals: { selector: '.fs-table-text_6', typeOf: 'number' },
+  concededGoals: { selector: '.fs-table-text_7', typeOf: 'number' },
+  CardsYellow: { selector: '.fs-table-text_8', typeOf: 'number' },
+  cardsRed: { selector: '.fs-table-text_9', typeOf: 'number' }
 }
 
-async function scrape(url) {
-  const rest = await fetch(url)
-  const html = await rest.text()
-  return cheerio.load(html)
-}
-
-async function getLeaderBoard() {
-  const $ = await scrape(URLS.leaderboard)
+export async function getLeaderBoard($) {
   const $rows = $('table tbody tr')
-
-  const cleanText = (text) => text.replace(/\t|\n|\s:/g, '')
-
-  const LEADERBOARD_SELECTORS = {
-    team: { selector: '.fs-table-text_3', typeOf: 'string' },
-    wins: { selector: '.fs-table-text_4', typeOf: 'number' },
-    loses: { selector: '.fs-table-text_5', typeOf: 'number' },
-    scoredGoals: { selector: '.fs-table-text_6', typeOf: 'number' },
-    concededGoals: { selector: '.fs-table-text_7', typeOf: 'number' },
-    CardsYellow: { selector: '.fs-table-text_8', typeOf: 'number' },
-    cardsRed: { selector: '.fs-table-text_9', typeOf: 'number' }
-  }
 
   const getTeamFrom = ({ name }) => {
     const { presidentId, ...restOfTeam } = TEAMS.find(
@@ -61,7 +49,3 @@ async function getLeaderBoard() {
 
   return leaderboard
 }
-
-const leaderboard = await getLeaderBoard()
-console.log('Deploys')
-await writeDBFile('leaderboard.json', leaderboard)

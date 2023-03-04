@@ -1,0 +1,39 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const response = await fetch("https://kings-league-api.recortme.workers.dev/teams")
+const teams = await response.json()
+
+---
+
+<Layout title="Kings League Infojobs">
+	<div class="container m-auto">
+		<header class="flex">
+			{teams.map(({ id, name, image }) => (
+				<a href={`/team/${id}`}>
+					<img class="aspect-square w-12" src={image} alt={`Escudo del equipo ${name}`} />	
+				</a>
+			))}
+		</header>
+		<nav>
+			<ul class="flex">
+				<li>
+					<a href="/equipos">Equipos</a>
+				</li>
+				<li>
+					<a href="/partidos">Partidos</a>
+				</li>
+				<li>
+					<a href="/clasificacion">Clasificación</a>
+				</li>
+				<li>
+					<a href="/estadisticas">Estadisticas</a>
+				</li>
+			</ul>
+		</nav>
+		<main>
+			<img src="https://kingsleague.pro/wp-content/uploads/2022/12/logo-oficial.svg" alt="Kings League" />
+		</main>
+	</div>
+</Layout>
+
