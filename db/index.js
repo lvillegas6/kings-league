@@ -10,6 +10,11 @@ function readDBFile (fileName) {
 export const TEAMS = await readDBFile('teams')
 export const PRESIDENTS = await readDBFile('presidents')
 
+export function getImageFromTeam({ name }) {
+  const { image } = TEAMS.find((team) => team.name === name)
+  return image
+}
+
 export function writeDBFile (dbName, data) {
   return writeFile(`${DB_PATH}/${dbName}.json`, JSON.stringify(data, null, 2), 'utf-8')
 }
