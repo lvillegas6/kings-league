@@ -6,7 +6,7 @@
     "goals": 10,
     "rank": 1,
     "team": "El Barrio",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/el-barrio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
     "ranking": "1",
@@ -15,7 +15,7 @@
     "goals": 10,
     "rank": 2,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
     "ranking": "1",
@@ -24,7 +24,7 @@
     "goals": 8,
     "rank": 3,
     "team": "Los Troncos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/los-troncos.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/los-troncos.svg"
   },
   {
     "ranking": "1",
@@ -33,7 +33,7 @@
     "goals": 8,
     "rank": 4,
     "team": "Rayo de Barcelona",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/rayo-barcelona.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/rayo-barcelona.svg"
   },
   {
     "ranking": "1",
@@ -42,7 +42,7 @@
     "goals": 8,
     "rank": 5,
     "team": "Ultimate Móstoles",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/ultimate-mostoles.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg"
   },
   {
     "ranking": "1",
@@ -51,7 +51,7 @@
     "goals": 7,
     "rank": 6,
     "team": "Saiyans FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/saiyans-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg"
   },
   {
     "ranking": "1",
@@ -60,7 +60,7 @@
     "goals": 6,
     "rank": 7,
     "team": "Aniquiladores FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/aniquiladores.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
     "ranking": "1",
@@ -69,7 +69,7 @@
     "goals": 6,
     "rank": 8,
     "team": "El Barrio",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/el-barrio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
     "ranking": "1",
@@ -78,7 +78,7 @@
     "goals": 6,
     "rank": 9,
     "team": "Kunisports",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/kunisports.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   },
   {
     "ranking": "1",
@@ -87,7 +87,7 @@
     "goals": 6,
     "rank": 10,
     "team": "Porcinos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/porcinos-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg"
   },
   {
     "ranking": "1",
@@ -96,7 +96,7 @@
     "goals": 6,
     "rank": 11,
     "team": "Porcinos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/porcinos-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg"
   },
   {
     "ranking": "1",
@@ -105,7 +105,7 @@
     "goals": 6,
     "rank": 12,
     "team": "Ultimate Móstoles",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/ultimate-mostoles.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg"
   },
   {
     "ranking": "1",
@@ -114,7 +114,7 @@
     "goals": 6,
     "rank": 13,
     "team": "XBUYER TEAM",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/xbuyer.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/xbuyer.svg"
   },
   {
     "ranking": "1",
@@ -123,7 +123,7 @@
     "goals": 5,
     "rank": 14,
     "team": "XBUYER TEAM",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/xbuyer.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/xbuyer.svg"
   },
   {
     "ranking": "1",
@@ -132,7 +132,7 @@
     "goals": 4,
     "rank": 15,
     "team": "Jijantes FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/jijantes.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
     "ranking": "1",
@@ -141,7 +141,7 @@
     "goals": 4,
     "rank": 16,
     "team": "Kunisports",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/kunisports.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   },
   {
     "ranking": "1",
@@ -150,7 +150,7 @@
     "goals": 4,
     "rank": 17,
     "team": "Los Troncos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/los-troncos.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/los-troncos.svg"
   },
   {
     "ranking": "1",
@@ -159,7 +159,7 @@
     "goals": 4,
     "rank": 18,
     "team": "PIO FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/pio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/pio.svg"
   },
   {
     "ranking": "1",
@@ -168,7 +168,7 @@
     "goals": 4,
     "rank": 19,
     "team": "PIO FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/pio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/pio.svg"
   },
   {
     "ranking": "1",
@@ -177,7 +177,7 @@
     "goals": 4,
     "rank": 20,
     "team": "Porcinos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/porcinos-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg"
   },
   {
     "ranking": "1",
@@ -186,7 +186,7 @@
     "goals": 4,
     "rank": 21,
     "team": "Rayo de Barcelona",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/rayo-barcelona.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/rayo-barcelona.svg"
   },
   {
     "ranking": "1",
@@ -195,7 +195,7 @@
     "goals": 4,
     "rank": 22,
     "team": "Ultimate Móstoles",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/ultimate-mostoles.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg"
   },
   {
     "ranking": "1",
@@ -204,7 +204,7 @@
     "goals": 3,
     "rank": 23,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
     "ranking": "1",
@@ -213,7 +213,7 @@
     "goals": 3,
     "rank": 24,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
     "ranking": "1",
@@ -222,7 +222,7 @@
     "goals": 3,
     "rank": 25,
     "team": "Aniquiladores FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/aniquiladores.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
     "ranking": "1",
@@ -231,7 +231,7 @@
     "goals": 3,
     "rank": 26,
     "team": "Aniquiladores FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/aniquiladores.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
     "ranking": "1",
@@ -240,7 +240,7 @@
     "goals": 3,
     "rank": 27,
     "team": "El Barrio",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/el-barrio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
     "ranking": "1",
@@ -249,7 +249,7 @@
     "goals": 3,
     "rank": 28,
     "team": "El Barrio",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/el-barrio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
     "ranking": "1",
@@ -258,7 +258,7 @@
     "goals": 3,
     "rank": 29,
     "team": "Jijantes FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/jijantes.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
     "ranking": "1",
@@ -267,7 +267,7 @@
     "goals": 3,
     "rank": 30,
     "team": "Los Troncos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/los-troncos.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/los-troncos.svg"
   },
   {
     "ranking": "1",
@@ -276,7 +276,7 @@
     "goals": 3,
     "rank": 31,
     "team": "Los Troncos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/los-troncos.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/los-troncos.svg"
   },
   {
     "ranking": "1",
@@ -285,7 +285,7 @@
     "goals": 3,
     "rank": 32,
     "team": "PIO FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/pio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/pio.svg"
   },
   {
     "ranking": "1",
@@ -294,7 +294,7 @@
     "goals": 3,
     "rank": 33,
     "team": "Rayo de Barcelona",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/rayo-barcelona.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/rayo-barcelona.svg"
   },
   {
     "ranking": "1",
@@ -303,7 +303,7 @@
     "goals": 3,
     "rank": 34,
     "team": "PIO FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/pio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/pio.svg"
   },
   {
     "ranking": "1",
@@ -312,7 +312,7 @@
     "goals": 2,
     "rank": 35,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
     "ranking": "1",
@@ -321,7 +321,7 @@
     "goals": 2,
     "rank": 36,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
     "ranking": "1",
@@ -330,7 +330,7 @@
     "goals": 2,
     "rank": 37,
     "team": "Aniquiladores FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/aniquiladores.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
     "ranking": "1",
@@ -339,7 +339,7 @@
     "goals": 2,
     "rank": 38,
     "team": "Aniquiladores FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/aniquiladores.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
     "ranking": "1",
@@ -348,7 +348,7 @@
     "goals": 2,
     "rank": 39,
     "team": "El Barrio",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/el-barrio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
     "ranking": "1",
@@ -357,7 +357,7 @@
     "goals": 2,
     "rank": 40,
     "team": "Jijantes FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/jijantes.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
     "ranking": "1",
@@ -366,7 +366,7 @@
     "goals": 2,
     "rank": 41,
     "team": "Kunisports",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/kunisports.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   },
   {
     "ranking": "1",
@@ -375,7 +375,7 @@
     "goals": 2,
     "rank": 42,
     "team": "Kunisports",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/kunisports.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   },
   {
     "ranking": "1",
@@ -384,7 +384,7 @@
     "goals": 2,
     "rank": 43,
     "team": "Porcinos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/porcinos-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg"
   },
   {
     "ranking": "1",
@@ -393,7 +393,7 @@
     "goals": 2,
     "rank": 44,
     "team": "Porcinos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/porcinos-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg"
   },
   {
     "ranking": "1",
@@ -402,7 +402,7 @@
     "goals": 2,
     "rank": 45,
     "team": "Porcinos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/porcinos-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg"
   },
   {
     "ranking": "1",
@@ -411,7 +411,7 @@
     "goals": 2,
     "rank": 46,
     "team": "Rayo de Barcelona",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/rayo-barcelona.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/rayo-barcelona.svg"
   },
   {
     "ranking": "1",
@@ -420,7 +420,7 @@
     "goals": 2,
     "rank": 47,
     "team": "Saiyans FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/saiyans-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg"
   },
   {
     "ranking": "1",
@@ -429,7 +429,7 @@
     "goals": 2,
     "rank": 48,
     "team": "Saiyans FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/saiyans-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg"
   },
   {
     "ranking": "1",
@@ -438,7 +438,7 @@
     "goals": 2,
     "rank": 49,
     "team": "Ultimate Móstoles",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/ultimate-mostoles.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg"
   },
   {
     "ranking": "1",
@@ -447,6 +447,6 @@
     "goals": 1,
     "rank": 50,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   }
 ]

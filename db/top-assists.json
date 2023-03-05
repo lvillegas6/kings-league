@@ -5,7 +5,7 @@
     "assists": 7,
     "rank": 1,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
     "playerName": "Coro",
@@ -13,7 +13,7 @@
     "assists": 6,
     "rank": 2,
     "team": "Kunisports",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/kunisports.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   },
   {
     "playerName": "Cokita",
@@ -21,7 +21,7 @@
     "assists": 5,
     "rank": 3,
     "team": "PIO FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/pio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/pio.svg"
   },
   {
     "playerName": "Espinosa",
@@ -29,7 +29,7 @@
     "assists": 5,
     "rank": 4,
     "team": "Porcinos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/porcinos-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg"
   },
   {
     "playerName": "Franky P.",
@@ -37,7 +37,7 @@
     "assists": 5,
     "rank": 5,
     "team": "Rayo de Barcelona",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/rayo-barcelona.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/rayo-barcelona.svg"
   },
   {
     "playerName": "F. Hernández",
@@ -45,7 +45,7 @@
     "assists": 4,
     "rank": 6,
     "team": "Aniquiladores FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/aniquiladores.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
     "playerName": "Jacobo",
@@ -53,7 +53,7 @@
     "assists": 4,
     "rank": 7,
     "team": "El Barrio",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/el-barrio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
     "playerName": "Ruggeri",
@@ -61,7 +61,7 @@
     "assists": 4,
     "rank": 8,
     "team": "Kunisports",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/kunisports.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   },
   {
     "playerName": "J. Verdú",
@@ -69,7 +69,7 @@
     "assists": 4,
     "rank": 9,
     "team": "Los Troncos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/los-troncos.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/los-troncos.svg"
   },
   {
     "playerName": "H. Fraile",
@@ -77,7 +77,7 @@
     "assists": 4,
     "rank": 10,
     "team": "Porcinos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/porcinos-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg"
   },
   {
     "playerName": "Román",
@@ -85,7 +85,7 @@
     "assists": 3,
     "rank": 11,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
     "playerName": "Beguer",
@@ -93,7 +93,7 @@
     "assists": 3,
     "rank": 12,
     "team": "El Barrio",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/el-barrio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
     "playerName": "Ros",
@@ -101,7 +101,7 @@
     "assists": 3,
     "rank": 13,
     "team": "El Barrio",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/el-barrio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
     "playerName": "Pau ZZ",
@@ -109,7 +109,7 @@
     "assists": 3,
     "rank": 14,
     "team": "El Barrio",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/el-barrio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
     "playerName": "Dani P.",
@@ -117,7 +117,7 @@
     "assists": 3,
     "rank": 15,
     "team": "Rayo de Barcelona",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/rayo-barcelona.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/rayo-barcelona.svg"
   },
   {
     "playerName": "Aleix",
@@ -125,7 +125,7 @@
     "assists": 3,
     "rank": 16,
     "team": "Ultimate Móstoles",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/ultimate-mostoles.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg"
   },
   {
     "playerName": "Guti",
@@ -133,7 +133,7 @@
     "assists": 3,
     "rank": 17,
     "team": "Ultimate Móstoles",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/ultimate-mostoles.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg"
   },
   {
     "playerName": "Poch",
@@ -141,7 +141,7 @@
     "assists": 3,
     "rank": 18,
     "team": "XBUYER TEAM",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/xbuyer.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/xbuyer.svg"
   },
   {
     "playerName": "Ricardo",
@@ -149,7 +149,7 @@
     "assists": 2,
     "rank": 19,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
     "playerName": "Sorroche",
@@ -157,7 +157,7 @@
     "assists": 2,
     "rank": 20,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
     "playerName": "Nadir",
@@ -165,7 +165,7 @@
     "assists": 2,
     "rank": 21,
     "team": "Aniquiladores FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/aniquiladores.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
     "playerName": "Paul Mañé",
@@ -173,7 +173,7 @@
     "assists": 2,
     "rank": 22,
     "team": "Aniquiladores FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/aniquiladores.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
     "playerName": "Bernat",
@@ -181,7 +181,7 @@
     "assists": 2,
     "rank": 23,
     "team": "Aniquiladores FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/aniquiladores.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
     "playerName": "Ibai",
@@ -189,7 +189,7 @@
     "assists": 2,
     "rank": 24,
     "team": "Jijantes FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/jijantes.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
     "playerName": "Joan Inés",
@@ -197,7 +197,7 @@
     "assists": 2,
     "rank": 25,
     "team": "Kunisports",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/kunisports.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   },
   {
     "playerName": "X. Molas",
@@ -205,7 +205,7 @@
     "assists": 2,
     "rank": 26,
     "team": "Los Troncos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/los-troncos.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/los-troncos.svg"
   },
   {
     "playerName": "C. Planas",
@@ -213,7 +213,7 @@
     "assists": 2,
     "rank": 27,
     "team": "Los Troncos FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/los-troncos.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/los-troncos.svg"
   },
   {
     "playerName": "Pau Fer",
@@ -221,7 +221,7 @@
     "assists": 2,
     "rank": 28,
     "team": "PIO FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/pio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/pio.svg"
   },
   {
     "playerName": "M. Reyes",
@@ -229,7 +229,7 @@
     "assists": 2,
     "rank": 29,
     "team": "Rayo de Barcelona",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/rayo-barcelona.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/rayo-barcelona.svg"
   },
   {
     "playerName": "Campu",
@@ -237,7 +237,7 @@
     "assists": 2,
     "rank": 30,
     "team": "Saiyans FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/saiyans-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg"
   },
   {
     "playerName": "V. Torres",
@@ -245,7 +245,7 @@
     "assists": 2,
     "rank": 31,
     "team": "Saiyans FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/saiyans-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg"
   },
   {
     "playerName": "Gio Ferinu",
@@ -253,7 +253,7 @@
     "assists": 2,
     "rank": 32,
     "team": "Saiyans FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/saiyans-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg"
   },
   {
     "playerName": "Feliu",
@@ -261,7 +261,7 @@
     "assists": 2,
     "rank": 33,
     "team": "Saiyans FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/saiyans-fc.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg"
   },
   {
     "playerName": "Arché",
@@ -269,7 +269,7 @@
     "assists": 2,
     "rank": 34,
     "team": "Ultimate Móstoles",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/ultimate-mostoles.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg"
   },
   {
     "playerName": "Mantovani",
@@ -277,7 +277,7 @@
     "assists": 2,
     "rank": 35,
     "team": "El Barrio",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/el-barrio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
     "playerName": "A. Barragán",
@@ -285,7 +285,7 @@
     "assists": 1,
     "rank": 36,
     "team": "Jijantes FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/jijantes.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
     "playerName": "Lautaro",
@@ -293,7 +293,7 @@
     "assists": 1,
     "rank": 37,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
     "playerName": "Günter",
@@ -301,7 +301,7 @@
     "assists": 1,
     "rank": 38,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
     "playerName": "Pluvins",
@@ -309,7 +309,7 @@
     "assists": 1,
     "rank": 39,
     "team": "1K FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/1k.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
     "playerName": "Goku",
@@ -317,7 +317,7 @@
     "assists": 1,
     "rank": 40,
     "team": "Aniquiladores FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/aniquiladores.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
     "playerName": "Galvany",
@@ -325,7 +325,7 @@
     "assists": 1,
     "rank": 41,
     "team": "Aniquiladores FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/aniquiladores.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
     "playerName": "Gilles V.",
@@ -333,7 +333,7 @@
     "assists": 1,
     "rank": 42,
     "team": "Aniquiladores FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/aniquiladores.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
     "playerName": "Mase",
@@ -341,7 +341,7 @@
     "assists": 1,
     "rank": 43,
     "team": "El Barrio",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/el-barrio.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
     "playerName": "Pol",
@@ -349,7 +349,7 @@
     "assists": 1,
     "rank": 44,
     "team": "Jijantes FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/jijantes.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
     "playerName": "Jay",
@@ -357,7 +357,7 @@
     "assists": 1,
     "rank": 45,
     "team": "Jijantes FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/jijantes.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
     "playerName": "Alsina",
@@ -365,7 +365,7 @@
     "assists": 1,
     "rank": 46,
     "team": "Jijantes FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/jijantes.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
     "playerName": "Soriano",
@@ -373,7 +373,7 @@
     "assists": 1,
     "rank": 47,
     "team": "Jijantes FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/jijantes.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
     "playerName": "Maca",
@@ -381,7 +381,7 @@
     "assists": 1,
     "rank": 48,
     "team": "Jijantes FC",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/jijantes.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
     "playerName": "Hidalgo",
@@ -389,7 +389,7 @@
     "assists": 1,
     "rank": 49,
     "team": "Kunisports",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/kunisports.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   },
   {
     "playerName": "Torrentbó",
@@ -397,6 +397,6 @@
     "assists": 1,
     "rank": 50,
     "team": "Kunisports",
-    "image": "https://kings-league-api.lvillegas.workers.dev/static/teams/logos/kunisports.svg"
+    "image": "https://kings-league-api.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   }
 ]
