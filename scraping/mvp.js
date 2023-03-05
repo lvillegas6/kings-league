@@ -1,4 +1,4 @@
-import { TEAMS, getImageFromTeam } from '../db/index.js'
+import { getImageFromTeam } from '../db/index.js'
 import { cleanText } from './utils.js'
 
 const MVP_SELECTORS = {

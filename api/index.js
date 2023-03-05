@@ -1,11 +1,11 @@
 import { Hono } from 'hono'
 import { serveStatic } from 'hono/cloudflare-workers'
 import leaderboard from '../db/leaderboard.json'
-import teams from '../db/teams.json'
-import presidents from '../db/presidents.json'
 import mvp from '../db/mvp.json'
-import topScorer from '../db/top-scorer.json'
-import assists from '../db/assists.json'
+import presidents from '../db/presidents.json'
+import teams from '../db/teams.json'
+import topAssists from '../db/top-assists.json'
+import topScorers from '../db/top-scorers.json'
 
 const app = new Hono()
 
@@ -28,8 +28,12 @@ app.get('/', (ctx) =>
       description: 'Returns Kings League MVP'
     },
     {
-      endpoint: '/assists',
-      description: 'Returns Kings League assists'
+      endpoint: '/top-assists',
+      description: 'Returns Kings League top assists'
+    },
+    {
+      endpoint: '/top-scorers',
+      description: 'Returns Kings League top scorers'
     }
   ])
 )
@@ -69,11 +73,11 @@ app.get('/mvp', (ctx) => {
 })
 
 app.get('/top-scorer', (ctx) => {
-  return ctx.json(topScorer)
+  return ctx.json(topAssists)
 })
 
 app.get('/assists', (ctx) => {
-  return ctx.json(assists)
+  return ctx.json(topScorers)
 })
 
 app.get('/static/*', serveStatic({ root: './' }))

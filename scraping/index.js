@@ -3,8 +3,8 @@ import { writeDBFile } from '../db/index.js'
 import { getLeaderBoard } from './leaderboard.js'
 import { getMvpList } from './mvp.js'
 import { scrape } from './utils.js'
-import { getTopScoresList } from './top-scorer.js'
-import { getAssists } from './assists.js'
+import { getTopScoresList } from './top-scorers.js'
+import { getAssists } from './top-assists.js'
 
 export const SCRAPINGS = {
   leaderboard: {
@@ -15,11 +15,11 @@ export const SCRAPINGS = {
     url: 'https://kingsleague.pro/estadisticas/mvp/',
     scraper: getMvpList
   },
-  'top-scorer': {
+  'top-scorers': {
     url: 'https://kingsleague.pro/estadisticas/goles/',
     scraper: getTopScoresList
   },
-  assists: {
+  'top-assists': {
     url: 'https://kingsleague.pro/estadisticas/asistencias/',
     scraper: getAssists
   }

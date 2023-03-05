@@ -65,10 +65,7 @@ async function getTeams() {
       // .el-content > "" + span
       // .el-content > p > "" + span
       const $role = $el.find(SELECTORS.role)
-      const roleRawValue =
-				$role.contents().length > 1
-				  ? $role.contents().first().text()
-				  : $role.find('p').contents().first().text()
+      const roleRawValue = $role.contents().length > 1 ? $role.contents().first().text() : $role.find('p').contents().first().text()
       const role = cleanText(roleRawValue)
       const roleLowerCase = role.toLowerCase()
 
