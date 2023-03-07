@@ -1,0 +1,40 @@
+---
+import Logo from "./Logo.astro";
+const response = await fetch('https://kings-league-api.lvillegas.workers.dev/teams')
+const teams = await response.json()
+---
+
+<header class="p-8 flex gap-6 items-start bg-gradient-to-b from-[#ff6900] via-[#ff6900] to-[#e66000]">
+    <Logo />
+    <div class="flex flex-col gap-4">
+        <nav>
+            <ul class='flex bg-white/30 p-2 rounded-md gap-x-2 [&>li>a:hover]:scale-125'>
+                {
+                    teams.map(({ id, name, image }) => (
+                        <li>
+                            <a class="transition-all block" href={`/team/${id}`}>
+                                <img class='aspect-square w-12' src={image} alt={`Escudo del equipo ${name}`} />
+                            </a>
+                        </li>
+                    ))
+                }
+            </ul>
+        </nav>
+        <nav>
+            <ul class='flex text-white gap-4 font-semibold [&>li>a]:opacity-80 text-md [&>li>a:hover]:opacity-100 [&>li>a:hover]:underline'>
+                <li>
+                    <a href='/equipos'>Equipos</a>
+                </li>
+                <li>
+                    <a href='/partidos'>Partidos</a>
+                </li>
+                <li>
+                    <a href='/clasificacion'>Clasificación</a>
+                </li>
+                <li>
+                    <a href='/estadisticas'>Estadisticas</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</header>
