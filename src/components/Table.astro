@@ -19,14 +19,14 @@ const leaderboard = await response.json()
 		<tbody>
 			{
 				leaderboard.map((info, index) => {
-					const { wins, loses, team } = info
+					const { wins, loses, team, rank } = info
 
 					const { id, image, name } = team
 
 					return (
 						<tr class='bg-white border-b'>
 							<th scope='row' class='px-6 py-4 font-black text-black whitespace-nowrap'>
-								{index + 1}
+								{rank}
 							</th>
 							<td class='px-6 py-4 font-black text-black'>
                                 <a href={`/team/${id}`} class="flex gap-4 items-center">
