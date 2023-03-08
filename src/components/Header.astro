@@ -38,7 +38,7 @@ const teams = await response.json()
 						<>{index === 6 ? <Logo /> : ''}
 						<li>
 							<a class="group transition block" href={`/team/${id}`} title={name}>
-								<img class='flex-shrink-0 group-hover:drop-shadow-[0px_0px_8px_#fff] drop-shadow-[0px_0px_4px_#fff] h-12 w-12 aspect-square' src={image} alt={`Escudo del equipo ${name}`} />
+								<img class='flex-shrink-0 drop-shadow-[0px_0px_4px_#fff] h-12 w-12 aspect-square' src={image} alt={`Escudo del equipo ${name}`} />
 							</a>
 						</li>
 						</>
