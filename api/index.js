@@ -94,7 +94,7 @@ app.get('/assists', (ctx) => {
 })
 
 app.get('/schedule', (ctx) => {
-	return ctx.json(schedule)
+  return ctx.json(schedule)
 })
 
 app.get('/teams/:id/players-12', (ctx) => {
