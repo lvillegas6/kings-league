@@ -8,7 +8,7 @@ const leaderboard = await response.json()
 
 <div class='relative overflow-x-auto shadow-md sm:rounded-lg'>
 	<table class='w-full text-xs text-left'>
-		<thead class='text-xxs text-white font-black uppercase bg-black font-v'>
+		<thead class='text-xxs text-white font-title uppercase bg-black font-v'>
 			<tr>
 				<th scope='col' class='px-6 py-3'> Pos</th>
 				<th scope='col' class='px-6 py-3'> Equipo</th>
@@ -25,11 +25,11 @@ const leaderboard = await response.json()
 
 					return (
 						<tr class='bg-white border-b'>
-							<th scope='row' class='px-6 py-4 font-black text-black whitespace-nowrap'>
+							<th scope='row' class='px-6 py-4 font-title text-black whitespace-nowrap'>
 								{rank}
 							</th>
-							<td class='px-6 py-4 font-black text-black'>
-                                <a href={`/team/${id}`} class="flex gap-4 items-center">
+							<td class='px-6 py-4 font-title text-black'>
+                                <a href={`/team/${id}`} class="flex gap-4 items-center transition hover:opacity-75">
                                     <img src={image} class='w-6 h-6 mr-2' alt={`Logo de ${name}`} />
                                 {name}
                                 </a>
