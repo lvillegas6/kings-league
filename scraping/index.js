@@ -6,6 +6,7 @@ import { scrape } from './utils.js'
 import { getTopScoresList } from './top-scorers.js'
 import { getAssists } from './top-assists.js'
 import { getPlayersTwelve } from './players-twelve.js'
+import { getSchedule } from './schedule.js'
 
 export const SCRAPINGS = {
   leaderboard: {
@@ -27,6 +28,10 @@ export const SCRAPINGS = {
   'players-twelve': {
     url: 'https://kingsleague.pro/jugador-12/',
     scraper: getPlayersTwelve
+  },
+  schedule: {
+    url: 'https://kingsleague.pro/partidos/',
+    scraper: getSchedule
   }
 }
 
