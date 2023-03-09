@@ -89,7 +89,7 @@
       "mvps": 4,
       "team": "El Barrio",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/el-barrio.svg",
-      "playerImage": "el-barrio-ubn.png",
+      "playerImage": "el-barrio-ubn.webp",
       "teamId": "el-barrio"
     },
     {
@@ -99,7 +99,7 @@
       "mvps": 3,
       "team": "Kunisports",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports.svg",
-      "playerImage": "kunisports-torrentb.png",
+      "playerImage": "kunisports-torrentb.webp",
       "teamId": "kunisports"
     },
     {
@@ -119,7 +119,7 @@
       "mvps": 3,
       "team": "PIO FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/pio.svg",
-      "playerImage": "pio-fc-lopo.png",
+      "playerImage": "pio-fc-lopo.webp",
       "teamId": "pio-fc"
     },
     {
@@ -129,7 +129,7 @@
       "mvps": 3,
       "team": "Saiyans FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg",
-      "playerImage": "saiyans-fc-briones.png",
+      "playerImage": "saiyans-fc-briones.webp",
       "teamId": "saiyans-fc"
     }
   ],
@@ -142,7 +142,7 @@
       "rank": 1,
       "team": "El Barrio",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/el-barrio.svg",
-      "playerImage": "el-barrio-ubn.png",
+      "playerImage": "el-barrio-ubn.webp",
       "teamId": "el-barrio"
     },
     {
@@ -164,7 +164,7 @@
       "rank": 3,
       "team": "Ultimate Móstoles",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg",
-      "playerImage": "ultimate-mostoles-juanma-glez.png",
+      "playerImage": "ultimate-mostoles-juanma-glez.webp",
       "teamId": "ultimate-mostoles"
     },
     {
@@ -175,7 +175,7 @@
       "rank": 4,
       "team": "Los Troncos FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg",
-      "playerImage": "los-troncos-fc-e-álvaro.png",
+      "playerImage": "los-troncos-fc-e-álvaro.webp",
       "teamId": "los-troncos-fc"
     },
     {
@@ -186,7 +186,7 @@
       "rank": 5,
       "team": "Rayo de Barcelona",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/rayo-barcelona.svg",
-      "playerImage": "rayo-barcelona-pelaz.png",
+      "playerImage": "rayo-barcelona-pelaz.webp",
       "teamId": "rayo-barcelona"
     }
   ],
@@ -208,7 +208,7 @@
       "rank": 2,
       "team": "Kunisports",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports.svg",
-      "playerImage": "kunisports-coro.png",
+      "playerImage": "kunisports-coro.webp",
       "teamId": "kunisports"
     },
     {
@@ -218,7 +218,7 @@
       "rank": 3,
       "team": "PIO FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/pio.svg",
-      "playerImage": "pio-fc-cokita.png",
+      "playerImage": "pio-fc-cokita.webp",
       "teamId": "pio-fc"
     },
     {
@@ -238,7 +238,7 @@
       "rank": 5,
       "team": "Porcinos FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg",
-      "playerImage": "porcinos-fc-espinosa.png",
+      "playerImage": "porcinos-fc-espinosa.webp",
       "teamId": "porcinos-fc"
     }
   ]

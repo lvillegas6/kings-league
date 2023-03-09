@@ -18,64 +18,64 @@
       {
         "name": "Ricardo",
         "role": "jugador 11",
-        "image": "1k-ricardo.png"
+        "image": "1k-ricardo.webp"
       },
       {
         "name": "Román",
         "role": "Defensa",
-        "image": "1k-romn.png"
+        "image": "1k-romn.webp"
       },
       {
         "name": "Sorroche",
         "role": "Delantero",
-        "image": "1k-sorroche.png"
+        "image": "1k-sorroche.webp"
       },
       {
         "name": "Marino",
         "role": "Delantero",
-        "image": "1k-marino.png"
+        "image": "1k-marino.webp"
       },
       {
         "name": "Ledo",
         "role": "Defensa",
-        "image": "1k-ledo.png"
+        "image": "1k-ledo.webp"
       },
       {
         "name": "Sauras",
         "role": "Defensa",
-        "image": "1k-sauras.png"
+        "image": "1k-sauras.webp"
       },
       {
         "name": "Bruno",
         "role": "Defensa",
-        "image": "1k-bruno.png"
+        "image": "1k-bruno.webp"
       },
       {
         "name": "Pluvins",
         "role": "Medio",
-        "image": "1k-pluvins.png"
+        "image": "1k-pluvins.webp"
       },
       {
         "name": "Rivero",
         "role": "Medio",
-        "image": "1k-rivero.png"
+        "image": "1k-rivero.webp"
       },
       {
         "name": "Lautaro",
         "role": "Delantero",
-        "image": "1k-lautaro.png"
+        "image": "1k-lautaro.webp"
       },
       {
         "name": "Günter",
         "role": "Delantero",
-        "image": "1k-gnter.png"
+        "image": "1k-gnter.webp"
       }
     ],
     "coach": "Julio García Mera",
     "shortName": "1K",
     "coachInfo": {
       "name": "Julio García Mera",
-      "image": "julio-garca-mera.png"
+      "image": "julio-garca-mera.webp"
     }
   },
   {
@@ -97,64 +97,64 @@
       {
         "name": "José Juan",
         "role": "jugador 11",
-        "image": "el-barrio-jos-juan.png"
+        "image": "el-barrio-jos-juan.webp"
       },
       {
         "name": "Jacobo",
         "role": "Delantero",
-        "image": "el-barrio-jacobo.png"
+        "image": "el-barrio-jacobo.webp"
       },
       {
         "name": "Mase",
         "role": "Defensa",
-        "image": "el-barrio-mase.png"
+        "image": "el-barrio-mase.webp"
       },
       {
         "name": "Beguer",
         "role": "Delantero",
-        "image": "el-barrio-beguer.png"
+        "image": "el-barrio-beguer.webp"
       },
       {
         "name": "Ros",
         "role": "Medio",
-        "image": "el-barrio-ros.png"
+        "image": "el-barrio-ros.webp"
       },
       {
         "name": "Ubón",
         "role": "Medio",
-        "image": "el-barrio-ubn.png"
+        "image": "el-barrio-ubn.webp"
       },
       {
         "name": "Pau ZZ",
         "role": "Defensa",
-        "image": "el-barrio-pau-zz.png"
+        "image": "el-barrio-pau-zz.webp"
       },
       {
         "name": "Olae",
         "role": "Delantero",
-        "image": "el-barrio-olae.png"
+        "image": "el-barrio-olae.webp"
       },
       {
         "name": "O. Boada",
         "role": "Delantero",
-        "image": "el-barrio-o-boada.png"
+        "image": "el-barrio-o-boada.webp"
       },
       {
         "name": "Baranera",
         "role": "Medio",
-        "image": "el-barrio-baranera.png"
+        "image": "el-barrio-baranera.webp"
       },
       {
         "name": "Capilla",
         "role": "Medio",
-        "image": "el-barrio-capilla.png"
+        "image": "el-barrio-capilla.webp"
       }
     ],
     "coach": "Juan Arroita",
     "shortName": "RDB",
     "coachInfo": {
       "name": "Juan Arroita",
-      "image": "juan-arroita.png"
+      "image": "juan-arroita.webp"
     }
   },
   {
@@ -173,64 +173,64 @@
       {
         "name": "Juanma Glez.",
         "role": "jugador 11",
-        "image": "ultimate-mostoles-juanma-glez.png"
+        "image": "ultimate-mostoles-juanma-glez.webp"
       },
       {
         "name": "Arché",
         "role": "Medio",
-        "image": "ultimate-mostoles-arch.png"
+        "image": "ultimate-mostoles-arch.webp"
       },
       {
         "name": "Iu",
         "role": "Portero",
-        "image": "ultimate-mostoles-iu.png"
+        "image": "ultimate-mostoles-iu.webp"
       },
       {
         "name": "Guti",
         "role": "Defensa",
-        "image": "ultimate-mostoles-guti.png"
+        "image": "ultimate-mostoles-guti.webp"
       },
       {
         "name": "Aleix",
         "role": "Medio",
-        "image": "ultimate-mostoles-aleix.png"
+        "image": "ultimate-mostoles-aleix.webp"
       },
       {
         "name": "Llur",
         "role": "Delantero",
-        "image": "ultimate-mostoles-llur.png"
+        "image": "ultimate-mostoles-llur.webp"
       },
       {
         "name": "Iker",
         "role": "Defensa",
-        "image": "ultimate-mostoles-iker.png"
+        "image": "ultimate-mostoles-iker.webp"
       },
       {
         "name": "Ian",
         "role": "Defensa",
-        "image": "ultimate-mostoles-ian.png"
+        "image": "ultimate-mostoles-ian.webp"
       },
       {
         "name": "Zea",
         "role": "Delantero",
-        "image": "ultimate-mostoles-zea.png"
+        "image": "ultimate-mostoles-zea.webp"
       },
       {
         "name": "Nacho",
         "role": "Portero",
-        "image": "ultimate-mostoles-nacho.png"
+        "image": "ultimate-mostoles-nacho.webp"
       },
       {
         "name": "Lucca",
         "role": "Medio",
-        "image": "ultimate-mostoles-lucca.png"
+        "image": "ultimate-mostoles-lucca.webp"
       }
     ],
     "coach": "Nacho Castro",
     "shortName": "ULT",
     "coachInfo": {
       "name": "Nacho Castro",
-      "image": "nacho-castro.png"
+      "image": "nacho-castro.webp"
     }
   },
   {
@@ -252,64 +252,64 @@
       {
         "name": "C. Planas",
         "role": "jugador 11",
-        "image": "los-troncos-fc-c-planas.png"
+        "image": "los-troncos-fc-c-planas.webp"
       },
       {
         "name": "E. Álvaro",
         "role": "Delantero",
-        "image": "los-troncos-fc-e-álvaro.png"
+        "image": "los-troncos-fc-e-álvaro.webp"
       },
       {
         "name": "P. Lechuga",
         "role": "Portero",
-        "image": "los-troncos-fc-p-lechuga.png"
+        "image": "los-troncos-fc-p-lechuga.webp"
       },
       {
         "name": "D. Soriano",
         "role": "Defensa",
-        "image": "los-troncos-fc-d-soriano.png"
+        "image": "los-troncos-fc-d-soriano.webp"
       },
       {
         "name": "S. Sánchez",
         "role": "Medio",
-        "image": "los-troncos-fc-s-sánchez.png"
+        "image": "los-troncos-fc-s-sánchez.webp"
       },
       {
         "name": "Noel",
         "role": "Medio",
-        "image": "los-troncos-fc-noel.png"
+        "image": "los-troncos-fc-noel.webp"
       },
       {
         "name": "X. Molas",
         "role": "Medio",
-        "image": "los-troncos-fc-x-molas.png"
+        "image": "los-troncos-fc-x-molas.webp"
       },
       {
         "name": "R. Martínez",
         "role": "Delantero",
-        "image": "los-troncos-fc-r-martínez.png"
+        "image": "los-troncos-fc-r-martínez.webp"
       },
       {
         "name": "Dorkis",
         "role": "Delantero",
-        "image": "los-troncos-fc-dorkis.png"
+        "image": "los-troncos-fc-dorkis.webp"
       },
       {
         "name": "I. Nuevo",
         "role": "Medio",
-        "image": "los-troncos-fc-i-nuevo.png"
+        "image": "los-troncos-fc-i-nuevo.webp"
       },
       {
         "name": "M. Arús",
         "role": "Portero",
-        "image": "los-troncos-fc-m-arús.png"
+        "image": "los-troncos-fc-m-arús.webp"
       }
     ],
     "coach": "Pol Font",
     "shortName": "TFC",
     "coachInfo": {
       "name": "Pol Font",
-      "image": "pol-font.png"
+      "image": "pol-font.webp"
     }
   },
   {
@@ -328,64 +328,64 @@
       {
         "name": "Pol Alme",
         "role": "jugador 11",
-        "image": "saiyans-fc-pol-alme.png"
+        "image": "saiyans-fc-pol-alme.webp"
       },
       {
         "name": "Briones",
         "role": "Portero",
-        "image": "saiyans-fc-briones.png"
+        "image": "saiyans-fc-briones.webp"
       },
       {
         "name": "Gio Ferinu",
         "role": "Delantero",
-        "image": "saiyans-fc-gio-ferinu.png"
+        "image": "saiyans-fc-gio-ferinu.webp"
       },
       {
         "name": "Campu",
         "role": "Defensa",
-        "image": "saiyans-fc-campu.png"
+        "image": "saiyans-fc-campu.webp"
       },
       {
         "name": "Temo",
         "role": "Medio",
-        "image": "saiyans-fc-temo.png"
+        "image": "saiyans-fc-temo.webp"
       },
       {
         "name": "C. Valle",
         "role": "Medio",
-        "image": "saiyans-fc-c-valle.png"
+        "image": "saiyans-fc-c-valle.webp"
       },
       {
         "name": "V. Torres",
         "role": "Defensa",
-        "image": "saiyans-fc-v-torres.png"
+        "image": "saiyans-fc-v-torres.webp"
       },
       {
         "name": "Feliu",
         "role": "Medio",
-        "image": "saiyans-fc-feliu.png"
+        "image": "saiyans-fc-feliu.webp"
       },
       {
         "name": "David Alba",
         "role": "Delantero",
-        "image": "saiyans-fc-david-alba.png"
+        "image": "saiyans-fc-david-alba.webp"
       },
       {
         "name": "R. Carbó",
         "role": "Medio",
-        "image": "saiyans-fc-r-carbó.png"
+        "image": "saiyans-fc-r-carbó.webp"
       },
       {
         "name": "Fajardo",
         "role": "Portero",
-        "image": "saiyans-fc-fajardo.png"
+        "image": "saiyans-fc-fajardo.webp"
       }
     ],
     "coach": "Daniel Romo",
     "shortName": "SAI",
     "coachInfo": {
       "name": "Daniel Romo",
-      "image": "daniel-romo.png"
+      "image": "daniel-romo.webp"
     }
   },
   {
@@ -404,64 +404,64 @@
       {
         "name": "Coro",
         "role": "jugador 11",
-        "image": "kunisports-coro.png"
+        "image": "kunisports-coro.webp"
       },
       {
         "name": "Torrentbó",
         "role": "Delantero",
-        "image": "kunisports-torrentb.png"
+        "image": "kunisports-torrentb.webp"
       },
       {
         "name": "Víctor",
         "role": "Portero",
-        "image": "kunisports-vctor.png"
+        "image": "kunisports-vctor.webp"
       },
       {
         "name": "Guerrero",
         "role": "Defensa",
-        "image": "kunisports-guerrero.png"
+        "image": "kunisports-guerrero.webp"
       },
       {
         "name": "Joan Inés",
         "role": "Medio",
-        "image": "kunisports-joan-ins.png"
+        "image": "kunisports-joan-ins.webp"
       },
       {
         "name": "Rode",
         "role": "Portero",
-        "image": "kunisports-rode.png"
+        "image": "kunisports-rode.webp"
       },
       {
         "name": "Ruggeri",
         "role": "Defensa",
-        "image": "kunisports-ruggeri.png"
+        "image": "kunisports-ruggeri.webp"
       },
       {
         "name": "Nacho J.",
         "role": "Defensa",
-        "image": "kunisports-nacho-j.png"
+        "image": "kunisports-nacho-j.webp"
       },
       {
         "name": "Hidalgo",
         "role": "Delantero",
-        "image": "kunisports-hidalgo.png"
+        "image": "kunisports-hidalgo.webp"
       },
       {
         "name": "Lluc",
         "role": "Delantero",
-        "image": "kunisports-lluc.png"
+        "image": "kunisports-lluc.webp"
       },
       {
         "name": "Miki",
         "role": "Defensa",
-        "image": "kunisports-miki.png"
+        "image": "kunisports-miki.webp"
       }
     ],
     "coach": "Martín Posse",
     "shortName": "KNS",
     "coachInfo": {
       "name": "Martín Posse",
-      "image": "martn-posse.png"
+      "image": "martn-posse.webp"
     }
   },
   {
@@ -483,64 +483,64 @@
       {
         "name": "Soriano",
         "role": "jugador 11",
-        "image": "jijantes-fc-soriano.png"
+        "image": "jijantes-fc-soriano.webp"
       },
       {
         "name": "Alsina",
         "role": "Medio",
-        "image": "jijantes-fc-alsina.png"
+        "image": "jijantes-fc-alsina.webp"
       },
       {
         "name": "Pol",
         "role": "Portero",
-        "image": "jijantes-fc-pol.png"
+        "image": "jijantes-fc-pol.webp"
       },
       {
         "name": "Jay",
         "role": "Defensa",
-        "image": "jijantes-fc-jay.png"
+        "image": "jijantes-fc-jay.webp"
       },
       {
         "name": "Quero",
         "role": "Medio",
-        "image": "jijantes-fc-quero.png"
+        "image": "jijantes-fc-quero.webp"
       },
       {
         "name": "Arnau M.V",
         "role": "Defensa",
-        "image": "jijantes-fc-arnau-mv.png"
+        "image": "jijantes-fc-arnau-mv.webp"
       },
       {
         "name": "Iván",
         "role": "Delantero",
-        "image": "jijantes-fc-ivn.png"
+        "image": "jijantes-fc-ivn.webp"
       },
       {
         "name": "Maca",
         "role": "Medio",
-        "image": "jijantes-fc-maca.png"
+        "image": "jijantes-fc-maca.webp"
       },
       {
         "name": "Noel",
         "role": "Defensa",
-        "image": "jijantes-fc-noel.png"
+        "image": "jijantes-fc-noel.webp"
       },
       {
         "name": "Dorado",
         "role": "Delantero",
-        "image": "jijantes-fc-dorado.png"
+        "image": "jijantes-fc-dorado.webp"
       },
       {
         "name": "Mario",
         "role": "Portero",
-        "image": "jijantes-fc-mario.png"
+        "image": "jijantes-fc-mario.webp"
       }
     ],
     "coach": "Marc Carmona",
     "shortName": "JFC",
     "coachInfo": {
       "name": "Marc Carmona",
-      "image": "marc-carmona.png"
+      "image": "marc-carmona.webp"
     }
   },
   {
@@ -560,64 +560,64 @@
       {
         "name": "Espinosa",
         "role": "jugador 11",
-        "image": "porcinos-fc-espinosa.png"
+        "image": "porcinos-fc-espinosa.webp"
       },
       {
         "name": "J. Segovia",
         "role": "Portero",
-        "image": "porcinos-fc-j-segovia.png"
+        "image": "porcinos-fc-j-segovia.webp"
       },
       {
         "name": "G. Cichero",
         "role": "Defensa",
-        "image": "porcinos-fc-g-cichero.png"
+        "image": "porcinos-fc-g-cichero.webp"
       },
       {
         "name": "David L.L.",
         "role": "Defensa",
-        "image": "porcinos-fc-david-ll..png"
+        "image": "porcinos-fc-david-ll..webp"
       },
       {
         "name": "Toti",
         "role": "Medio",
-        "image": "porcinos-fc-toti.png"
+        "image": "porcinos-fc-toti.webp"
       },
       {
         "name": "Carlitos G.",
         "role": "Medio",
-        "image": "porcinos-fc-carlitos-g.png"
+        "image": "porcinos-fc-carlitos-g.webp"
       },
       {
         "name": "Killian",
         "role": "Delantero",
-        "image": "porcinos-fc-killian.png"
+        "image": "porcinos-fc-killian.webp"
       },
       {
         "name": "J. Blanco",
         "role": "Delantero",
-        "image": "porcinos-fc-j-blanco.png"
+        "image": "porcinos-fc-j-blanco.webp"
       },
       {
         "name": "Uri Pons",
         "role": "Delantero",
-        "image": "porcinos-fc-uri-pons.png"
+        "image": "porcinos-fc-uri-pons.webp"
       },
       {
         "name": "Lao",
         "role": "Medio",
-        "image": "porcinos-fc-lao.png"
+        "image": "porcinos-fc-lao.webp"
       },
       {
         "name": "Sergi",
         "role": "Portero",
-        "image": "porcinos-fc-sergi.png"
+        "image": "porcinos-fc-sergi.webp"
       }
     ],
     "coach": "Juvenal Edjogo",
     "shortName": "POR",
     "coachInfo": {
       "name": "Juvenal Edjogo-Owono",
-      "image": "juvenal-edjogoowono.png"
+      "image": "juvenal-edjogoowono.webp"
     }
   },
   {
@@ -639,64 +639,64 @@
       {
         "name": "Poloteli",
         "role": "jugador 11",
-        "image": "rayo-barcelona-poloteli.png"
+        "image": "rayo-barcelona-poloteli.webp"
       },
       {
         "name": "Pelaz",
         "role": "Medio",
-        "image": "rayo-barcelona-pelaz.png"
+        "image": "rayo-barcelona-pelaz.webp"
       },
       {
         "name": "Canet",
         "role": "Portero",
-        "image": "rayo-barcelona-canet.png"
+        "image": "rayo-barcelona-canet.webp"
       },
       {
         "name": "Guillem ZZ",
         "role": "Delantero",
-        "image": "rayo-barcelona-guillem-zz.png"
+        "image": "rayo-barcelona-guillem-zz.webp"
       },
       {
         "name": "M. Reyes",
         "role": "Defensa",
-        "image": "rayo-barcelona-m-reyes.png"
+        "image": "rayo-barcelona-m-reyes.webp"
       },
       {
         "name": "Franky P.",
         "role": "Medio",
-        "image": "rayo-barcelona-franky-p.png"
+        "image": "rayo-barcelona-franky-p.webp"
       },
       {
         "name": "Dani P.",
         "role": "Medio",
-        "image": "rayo-barcelona-dani-p.png"
+        "image": "rayo-barcelona-dani-p.webp"
       },
       {
         "name": "Alejandro",
         "role": "Defensa",
-        "image": "rayo-barcelona-alejandro.png"
+        "image": "rayo-barcelona-alejandro.webp"
       },
       {
         "name": "Biboum M.",
         "role": "Delantero",
-        "image": "rayo-barcelona-biboum-m.png"
+        "image": "rayo-barcelona-biboum-m.webp"
       },
       {
         "name": "Jonathan",
         "role": "Medio",
-        "image": "rayo-barcelona-jonathan.png"
+        "image": "rayo-barcelona-jonathan.webp"
       },
       {
         "name": "Alex Race",
         "role": "Delantero",
-        "image": "rayo-barcelona-alex-race.png"
+        "image": "rayo-barcelona-alex-race.webp"
       }
     ],
     "coach": "JuanluDBZ",
     "shortName": "RDB",
     "coachInfo": {
       "name": "JuanluDBZ",
-      "image": "juanludbz.png"
+      "image": "juanludbz.webp"
     }
   },
   {
@@ -715,64 +715,64 @@
       {
         "name": "C. Castro",
         "role": "jugador 11",
-        "image": "xbuyer-team-c-castro.png"
+        "image": "xbuyer-team-c-castro.webp"
       },
       {
         "name": "Capi",
         "role": "Portero",
-        "image": "xbuyer-team-capi.png"
+        "image": "xbuyer-team-capi.webp"
       },
       {
         "name": "Poch",
         "role": "Delantero",
-        "image": "xbuyer-team-poch.png"
+        "image": "xbuyer-team-poch.webp"
       },
       {
         "name": "Iñaki",
         "role": "Medio",
-        "image": "xbuyer-team-iaki.png"
+        "image": "xbuyer-team-iaki.webp"
       },
       {
         "name": "Dani",
         "role": "Defensa",
-        "image": "xbuyer-team-dani.png"
+        "image": "xbuyer-team-dani.webp"
       },
       {
         "name": "Granero",
         "role": "Delantero",
-        "image": "xbuyer-team-granero.png"
+        "image": "xbuyer-team-granero.webp"
       },
       {
         "name": "Goran",
         "role": "Medio",
-        "image": "xbuyer-team-goran.png"
+        "image": "xbuyer-team-goran.webp"
       },
       {
         "name": "Bañuls",
         "role": "Defensa",
-        "image": "xbuyer-team-bauls.png"
+        "image": "xbuyer-team-bauls.webp"
       },
       {
         "name": "Franc",
         "role": "Medio",
-        "image": "xbuyer-team-franc.png"
+        "image": "xbuyer-team-franc.webp"
       },
       {
         "name": "B. Sierra",
         "role": "Delantero",
-        "image": "xbuyer-team-b-sierra.png"
+        "image": "xbuyer-team-b-sierra.webp"
       },
       {
         "name": "Sep",
         "role": "Portero",
-        "image": "xbuyer-team-sep.png"
+        "image": "xbuyer-team-sep.webp"
       }
     ],
     "coach": "Víctor González",
     "shortName": "XBU",
     "coachInfo": {
       "name": "Victor González",
-      "image": "victor-gonzlez.png"
+      "image": "victor-gonzlez.webp"
     }
   },
   {
@@ -791,64 +791,64 @@
       {
         "name": "F. Hernández",
         "role": "jugador 11",
-        "image": "aniquiladores-fc-f-hernández.png"
+        "image": "aniquiladores-fc-f-hernández.webp"
       },
       {
         "name": "Daniel P.",
         "role": "Portero",
-        "image": "aniquiladores-fc-daniel-p.png"
+        "image": "aniquiladores-fc-daniel-p.webp"
       },
       {
         "name": "Galvany",
         "role": "Medio",
-        "image": "aniquiladores-fc-galvany.png"
+        "image": "aniquiladores-fc-galvany.webp"
       },
       {
         "name": "Andrés",
         "role": "Defensa",
-        "image": "aniquiladores-fc-andrs.png"
+        "image": "aniquiladores-fc-andrs.webp"
       },
       {
         "name": "Bernat",
         "role": "Medio",
-        "image": "aniquiladores-fc-bernat.png"
+        "image": "aniquiladores-fc-bernat.webp"
       },
       {
         "name": "Paul Mañé",
         "role": "Delantero",
-        "image": "aniquiladores-fc-paul-maé.png"
+        "image": "aniquiladores-fc-paul-maé.webp"
       },
       {
         "name": "Jorquera",
         "role": "Defensa",
-        "image": "aniquiladores-fc-jorquera.png"
+        "image": "aniquiladores-fc-jorquera.webp"
       },
       {
         "name": "Gilles V.",
         "role": "Medio",
-        "image": "aniquiladores-fc-gilles-v.png"
+        "image": "aniquiladores-fc-gilles-v.webp"
       },
       {
         "name": "Jadir",
         "role": "Defensa",
-        "image": "aniquiladores-fc-jadir.png"
+        "image": "aniquiladores-fc-jadir.webp"
       },
       {
         "name": "Roger",
         "role": "Medio",
-        "image": "aniquiladores-fc-roger.png"
+        "image": "aniquiladores-fc-roger.webp"
       },
       {
         "name": "X.Morales",
         "role": "Portero",
-        "image": "aniquiladores-fc-xmorales.png"
+        "image": "aniquiladores-fc-xmorales.webp"
       }
     ],
     "coach": "Sergio Verdirame",
     "shortName": "ANI",
     "coachInfo": {
       "name": "Sergio Verdirame",
-      "image": "sergio-verdirame.png"
+      "image": "sergio-verdirame.webp"
     }
   },
   {
@@ -868,64 +868,64 @@
       {
         "name": "Lopo",
         "role": "jugador 11",
-        "image": "pio-fc-lopo.png"
+        "image": "pio-fc-lopo.webp"
       },
       {
         "name": "Jorge",
         "role": "Portero",
-        "image": "pio-fc-jorge.png"
+        "image": "pio-fc-jorge.webp"
       },
       {
         "name": "Carlitos",
         "role": "Defensa",
-        "image": "pio-fc-carlitos.png"
+        "image": "pio-fc-carlitos.webp"
       },
       {
         "name": "Pau Fer",
         "role": "Medio",
-        "image": "pio-fc-pau-fer.png"
+        "image": "pio-fc-pau-fer.webp"
       },
       {
         "name": "I. Cabello",
         "role": "Delantero",
-        "image": "pio-fc-i-cabello.png"
+        "image": "pio-fc-i-cabello.webp"
       },
       {
         "name": "B. Juárez",
         "role": "Medio",
-        "image": "pio-fc-b-juárez.png"
+        "image": "pio-fc-b-juárez.webp"
       },
       {
         "name": "Turner",
         "role": "Defensa",
-        "image": "pio-fc-turner.png"
+        "image": "pio-fc-turner.webp"
       },
       {
         "name": "Adri",
         "role": "Delantero",
-        "image": "pio-fc-adri.png"
+        "image": "pio-fc-adri.webp"
       },
       {
         "name": "Cokita",
         "role": "Medio",
-        "image": "pio-fc-cokita.png"
+        "image": "pio-fc-cokita.webp"
       },
       {
         "name": "A. Ropero",
         "role": "Medio",
-        "image": "pio-fc-a-ropero.png"
+        "image": "pio-fc-a-ropero.webp"
       },
       {
         "name": "Santiago",
         "role": "Defensa",
-        "image": "pio-fc-santiago.png"
+        "image": "pio-fc-santiago.webp"
       }
     ],
     "coach": "Gerardo Torrado",
     "shortName": "PIO",
     "coachInfo": {
       "name": "Gerardo Torrado",
-      "image": "gerardo-torrado.png"
+      "image": "gerardo-torrado.webp"
     }
   }
 ]
