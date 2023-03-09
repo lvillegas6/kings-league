@@ -7,6 +7,7 @@ import { getTopScoresList } from './top-scorers.js'
 import { getAssists } from './top-assists.js'
 import { getPlayersTwelve } from './players-twelve.js'
 import { getSchedule } from './schedule.js'
+import { getTopStatistics } from './top-statistics.js'
 
 export const SCRAPINGS = {
   leaderboard: {
@@ -32,6 +33,9 @@ export const SCRAPINGS = {
   schedule: {
     url: 'https://kingsleague.pro/partidos/',
     scraper: getSchedule
+  },
+  'top-statistics': {
+    scraper: getTopStatistics
   }
 }
 
@@ -40,7 +44,7 @@ export async function scrapeAndSave(name) {
   const { url, scraper } = SCRAPINGS[name]
   try {
     logInfo(`Getting ${name} list...`)
-    const $ = await scrape(url)
+    const $ = url ? await scrape(url) : null
     const content = await scraper($)
     await writeDBFile(name, content)
     logSuccess(`${name} list saved!`)

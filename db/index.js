@@ -3,7 +3,7 @@ import path from 'node:path'
 
 const DB_PATH = path.join(process.cwd(), './db/')
 
-function readDBFile (fileName) {
+export function readDBFile (fileName) {
   return readFile(`${DB_PATH}/${fileName}.json`, 'utf-8').then(JSON.parse)
 }
 

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kings-league-api-production.lvillegas.workers.dev/sitemap-index.xml
