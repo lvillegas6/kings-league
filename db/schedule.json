@@ -1073,8 +1073,25 @@
     "date": "19/03/2023",
     "matches": [
       {
-        "timestamp": null,
-        "hour": null,
+        "timestamp": 1679230800000,
+        "hour": "15:00",
+        "teams": [
+          {
+            "id": "jijantes",
+            "name": "Jijantes FC",
+            "shortName": "JFC"
+          },
+          {
+            "id": "los-troncos",
+            "name": "Los Troncos FC",
+            "shortName": "TFC"
+          }
+        ],
+        "score": "0 – 0"
+      },
+      {
+        "timestamp": 1679234400000,
+        "hour": "16:00",
         "teams": [
           {
             "id": "1k",
@@ -1090,8 +1107,8 @@
         "score": "0 – 0"
       },
       {
-        "timestamp": null,
-        "hour": null,
+        "timestamp": 1679238000000,
+        "hour": "17:00",
         "teams": [
           {
             "id": "xbuyer",
@@ -1107,8 +1124,8 @@
         "score": "0 – 0"
       },
       {
-        "timestamp": null,
-        "hour": null,
+        "timestamp": 1679241600000,
+        "hour": "18:00",
         "teams": [
           {
             "id": "porcinos-fc",
@@ -1124,25 +1141,8 @@
         "score": "0 – 0"
       },
       {
-        "timestamp": null,
-        "hour": null,
-        "teams": [
-          {
-            "id": "pio",
-            "name": "PIO FC",
-            "shortName": "PIO"
-          },
-          {
-            "id": "aniquiladores",
-            "name": "Aniquiladores FC",
-            "shortName": "ANI"
-          }
-        ],
-        "score": "0 – 0"
-      },
-      {
-        "timestamp": null,
-        "hour": null,
+        "timestamp": 1679245200000,
+        "hour": "19:00",
         "teams": [
           {
             "id": "rayo-barcelona",
@@ -1158,18 +1158,18 @@
         "score": "0 – 0"
       },
       {
-        "timestamp": null,
-        "hour": null,
+        "timestamp": 1679248800000,
+        "hour": "20:00",
         "teams": [
           {
-            "id": "jijantes",
-            "name": "Jijantes FC",
-            "shortName": "JFC"
+            "id": "pio",
+            "name": "PIO FC",
+            "shortName": "PIO"
           },
           {
-            "id": "los-troncos",
-            "name": "Los Troncos FC",
-            "shortName": "TFC"
+            "id": "aniquiladores",
+            "name": "Aniquiladores FC",
+            "shortName": "ANI"
           }
         ],
         "score": "0 – 0"
