@@ -1111,14 +1111,14 @@
         "hour": "17:00",
         "teams": [
           {
-            "id": "xbuyer",
-            "name": "XBUYER TEAM",
-            "shortName": "XBU"
+            "id": "porcinos-fc",
+            "name": "Porcinos FC",
+            "shortName": "POR"
           },
           {
-            "id": "saiyans-fc",
-            "name": "Saiyans FC",
-            "shortName": "SAI"
+            "id": "el-barrio",
+            "name": "El Barrio",
+            "shortName": "ELB"
           }
         ],
         "score": "0 – 0"
@@ -1128,14 +1128,14 @@
         "hour": "18:00",
         "teams": [
           {
-            "id": "porcinos-fc",
-            "name": "Porcinos FC",
-            "shortName": "POR"
+            "id": "xbuyer",
+            "name": "XBUYER TEAM",
+            "shortName": "XBU"
           },
           {
-            "id": "el-barrio",
-            "name": "El Barrio",
-            "shortName": "ELB"
+            "id": "saiyans-fc",
+            "name": "Saiyans FC",
+            "shortName": "SAI"
           }
         ],
         "score": "0 – 0"
