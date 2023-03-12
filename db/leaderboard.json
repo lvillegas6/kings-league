@@ -1,102 +1,12 @@
 [
   {
     "wins": 7,
-    "loses": 2,
-    "scoredGoals": 19,
-    "concededGoals": 11,
-    "CardsYellow": 8,
+    "loses": 3,
+    "scoredGoals": 31,
+    "concededGoals": 25,
+    "CardsYellow": 6,
     "cardsRed": 0,
     "rank": 1,
-    "team": {
-      "color": "#1932e0",
-      "id": "saiyans-fc",
-      "name": "Saiyans FC",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg",
-      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/saiyans-fc-inverse.svg",
-      "url": "https://kingsleague.pro/team/saiyans-fc/",
-      "channel": "https://twitch.tv/thegrefg",
-      "socialNetworks": [
-        "https://www.twitch.tv/thegrefg"
-      ],
-      "players": [
-        {
-          "name": "Pol Alme",
-          "role": "jugador 11",
-          "image": "saiyans-fc-pol-alme.webp"
-        },
-        {
-          "name": "Briones",
-          "role": "Portero",
-          "image": "saiyans-fc-briones.webp"
-        },
-        {
-          "name": "Gio Ferinu",
-          "role": "Delantero",
-          "image": "saiyans-fc-gio-ferinu.webp"
-        },
-        {
-          "name": "Campu",
-          "role": "Defensa",
-          "image": "saiyans-fc-campu.webp"
-        },
-        {
-          "name": "Temo",
-          "role": "Medio",
-          "image": "saiyans-fc-temo.webp"
-        },
-        {
-          "name": "C. Valle",
-          "role": "Medio",
-          "image": "saiyans-fc-c-valle.webp"
-        },
-        {
-          "name": "V. Torres",
-          "role": "Defensa",
-          "image": "saiyans-fc-v-torres.webp"
-        },
-        {
-          "name": "Feliu",
-          "role": "Medio",
-          "image": "saiyans-fc-feliu.webp"
-        },
-        {
-          "name": "David Alba",
-          "role": "Delantero",
-          "image": "saiyans-fc-david-alba.webp"
-        },
-        {
-          "name": "R. Carbó",
-          "role": "Medio",
-          "image": "saiyans-fc-r-carbó.webp"
-        },
-        {
-          "name": "Fajardo",
-          "role": "Portero",
-          "image": "saiyans-fc-fajardo.webp"
-        }
-      ],
-      "coach": "Daniel Romo",
-      "shortName": "SAI",
-      "coachInfo": {
-        "name": "Daniel Romo",
-        "image": "daniel-romo.webp"
-      },
-      "president": {
-        "id": "thegrefg",
-        "name": "TheGrefg",
-        "image": "https://kings-league-api-production.lvillegas.workers.dev/static/presidents/thegrefg.webp",
-        "teamId": "saiyans-fc"
-      }
-    }
-  },
-  {
-    "wins": 7,
-    "loses": 2,
-    "scoredGoals": 29,
-    "concededGoals": 22,
-    "CardsYellow": 7,
-    "cardsRed": 0,
-    "rank": 2,
     "team": {
       "color": "#7b7b7b",
       "id": "ultimate-mostoles",
@@ -180,10 +90,100 @@
     }
   },
   {
-    "wins": 6,
+    "wins": 7,
     "loses": 3,
-    "scoredGoals": 31,
-    "concededGoals": 22,
+    "scoredGoals": 20,
+    "concededGoals": 16,
+    "CardsYellow": 4,
+    "cardsRed": 0,
+    "rank": 2,
+    "team": {
+      "color": "#1932e0",
+      "id": "saiyans-fc",
+      "name": "Saiyans FC",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg",
+      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/saiyans-fc-inverse.svg",
+      "url": "https://kingsleague.pro/team/saiyans-fc/",
+      "channel": "https://twitch.tv/thegrefg",
+      "socialNetworks": [
+        "https://www.twitch.tv/thegrefg"
+      ],
+      "players": [
+        {
+          "name": "Pol Alme",
+          "role": "jugador 11",
+          "image": "saiyans-fc-pol-alme.webp"
+        },
+        {
+          "name": "Briones",
+          "role": "Portero",
+          "image": "saiyans-fc-briones.webp"
+        },
+        {
+          "name": "Gio Ferinu",
+          "role": "Delantero",
+          "image": "saiyans-fc-gio-ferinu.webp"
+        },
+        {
+          "name": "Campu",
+          "role": "Defensa",
+          "image": "saiyans-fc-campu.webp"
+        },
+        {
+          "name": "Temo",
+          "role": "Medio",
+          "image": "saiyans-fc-temo.webp"
+        },
+        {
+          "name": "C. Valle",
+          "role": "Medio",
+          "image": "saiyans-fc-c-valle.webp"
+        },
+        {
+          "name": "V. Torres",
+          "role": "Defensa",
+          "image": "saiyans-fc-v-torres.webp"
+        },
+        {
+          "name": "Feliu",
+          "role": "Medio",
+          "image": "saiyans-fc-feliu.webp"
+        },
+        {
+          "name": "David Alba",
+          "role": "Delantero",
+          "image": "saiyans-fc-david-alba.webp"
+        },
+        {
+          "name": "R. Carbó",
+          "role": "Medio",
+          "image": "saiyans-fc-r-carbó.webp"
+        },
+        {
+          "name": "Fajardo",
+          "role": "Portero",
+          "image": "saiyans-fc-fajardo.webp"
+        }
+      ],
+      "coach": "Daniel Romo",
+      "shortName": "SAI",
+      "coachInfo": {
+        "name": "Daniel Romo",
+        "image": "daniel-romo.webp"
+      },
+      "president": {
+        "id": "thegrefg",
+        "name": "TheGrefg",
+        "image": "https://kings-league-api-production.lvillegas.workers.dev/static/presidents/thegrefg.webp",
+        "teamId": "saiyans-fc"
+      }
+    }
+  },
+  {
+    "wins": 6,
+    "loses": 4,
+    "scoredGoals": 32,
+    "concededGoals": 23,
     "CardsYellow": 9,
     "cardsRed": 0,
     "rank": 3,
@@ -272,12 +272,105 @@
   },
   {
     "wins": 6,
-    "loses": 3,
-    "scoredGoals": 18,
-    "concededGoals": 19,
-    "CardsYellow": -1,
+    "loses": 4,
+    "scoredGoals": 35,
+    "concededGoals": 33,
+    "CardsYellow": 2,
     "cardsRed": 0,
     "rank": 4,
+    "team": {
+      "color": "#31585a",
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg",
+      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos-inverse.svg",
+      "url": "https://kingsleague.pro/team/los-troncos-fc/",
+      "channel": "https://twitch.tv/perxitaa",
+      "socialNetworks": [
+        "https://www.twitch.tv/perxitaa",
+        "https://www.instagram.com/troncosfc.oficial/",
+        "https://twitter.com/lostroncosfc_/",
+        "https://www.tiktok.com/@lostroncosfc_"
+      ],
+      "players": [
+        {
+          "name": "C. Planas",
+          "role": "jugador 11",
+          "image": "los-troncos-fc-c-planas.webp"
+        },
+        {
+          "name": "E. Álvaro",
+          "role": "Delantero",
+          "image": "los-troncos-fc-e-álvaro.webp"
+        },
+        {
+          "name": "P. Lechuga",
+          "role": "Portero",
+          "image": "los-troncos-fc-p-lechuga.webp"
+        },
+        {
+          "name": "D. Soriano",
+          "role": "Defensa",
+          "image": "los-troncos-fc-d-soriano.webp"
+        },
+        {
+          "name": "S. Sánchez",
+          "role": "Medio",
+          "image": "los-troncos-fc-s-sánchez.webp"
+        },
+        {
+          "name": "Noel",
+          "role": "Medio",
+          "image": "los-troncos-fc-noel.webp"
+        },
+        {
+          "name": "X. Molas",
+          "role": "Medio",
+          "image": "los-troncos-fc-x-molas.webp"
+        },
+        {
+          "name": "R. Martínez",
+          "role": "Delantero",
+          "image": "los-troncos-fc-r-martínez.webp"
+        },
+        {
+          "name": "Dorkis",
+          "role": "Delantero",
+          "image": "los-troncos-fc-dorkis.webp"
+        },
+        {
+          "name": "I. Nuevo",
+          "role": "Medio",
+          "image": "los-troncos-fc-i-nuevo.webp"
+        },
+        {
+          "name": "M. Arús",
+          "role": "Portero",
+          "image": "los-troncos-fc-m-arús.webp"
+        }
+      ],
+      "coach": "Pol Font",
+      "shortName": "TFC",
+      "coachInfo": {
+        "name": "Pol Font",
+        "image": "pol-font.webp"
+      },
+      "president": {
+        "id": "perxitaa",
+        "name": "Perxitaa",
+        "image": "https://kings-league-api-production.lvillegas.workers.dev/static/presidents/perxitaa.webp",
+        "teamId": "los-troncos-fc"
+      }
+    }
+  },
+  {
+    "wins": 6,
+    "loses": 4,
+    "scoredGoals": 19,
+    "concededGoals": 21,
+    "CardsYellow": -2,
+    "cardsRed": 0,
+    "rank": 5,
     "team": {
       "color": "#101920",
       "id": "kunisports",
@@ -362,12 +455,12 @@
   },
   {
     "wins": 5,
-    "loses": 4,
-    "scoredGoals": 29,
-    "concededGoals": 18,
-    "CardsYellow": 11,
+    "loses": 5,
+    "scoredGoals": 30,
+    "concededGoals": 20,
+    "CardsYellow": 10,
     "cardsRed": 0,
-    "rank": 5,
+    "rank": 6,
     "team": {
       "color": "#49b2ad",
       "id": "el-barrio",
@@ -455,103 +548,10 @@
   },
   {
     "wins": 5,
-    "loses": 4,
-    "scoredGoals": 29,
-    "concededGoals": 30,
-    "CardsYellow": -1,
-    "cardsRed": 0,
-    "rank": 6,
-    "team": {
-      "color": "#31585a",
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg",
-      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos-inverse.svg",
-      "url": "https://kingsleague.pro/team/los-troncos-fc/",
-      "channel": "https://twitch.tv/perxitaa",
-      "socialNetworks": [
-        "https://www.twitch.tv/perxitaa",
-        "https://www.instagram.com/troncosfc.oficial/",
-        "https://twitter.com/lostroncosfc_/",
-        "https://www.tiktok.com/@lostroncosfc_"
-      ],
-      "players": [
-        {
-          "name": "C. Planas",
-          "role": "jugador 11",
-          "image": "los-troncos-fc-c-planas.webp"
-        },
-        {
-          "name": "E. Álvaro",
-          "role": "Delantero",
-          "image": "los-troncos-fc-e-álvaro.webp"
-        },
-        {
-          "name": "P. Lechuga",
-          "role": "Portero",
-          "image": "los-troncos-fc-p-lechuga.webp"
-        },
-        {
-          "name": "D. Soriano",
-          "role": "Defensa",
-          "image": "los-troncos-fc-d-soriano.webp"
-        },
-        {
-          "name": "S. Sánchez",
-          "role": "Medio",
-          "image": "los-troncos-fc-s-sánchez.webp"
-        },
-        {
-          "name": "Noel",
-          "role": "Medio",
-          "image": "los-troncos-fc-noel.webp"
-        },
-        {
-          "name": "X. Molas",
-          "role": "Medio",
-          "image": "los-troncos-fc-x-molas.webp"
-        },
-        {
-          "name": "R. Martínez",
-          "role": "Delantero",
-          "image": "los-troncos-fc-r-martínez.webp"
-        },
-        {
-          "name": "Dorkis",
-          "role": "Delantero",
-          "image": "los-troncos-fc-dorkis.webp"
-        },
-        {
-          "name": "I. Nuevo",
-          "role": "Medio",
-          "image": "los-troncos-fc-i-nuevo.webp"
-        },
-        {
-          "name": "M. Arús",
-          "role": "Portero",
-          "image": "los-troncos-fc-m-arús.webp"
-        }
-      ],
-      "coach": "Pol Font",
-      "shortName": "TFC",
-      "coachInfo": {
-        "name": "Pol Font",
-        "image": "pol-font.webp"
-      },
-      "president": {
-        "id": "perxitaa",
-        "name": "Perxitaa",
-        "image": "https://kings-league-api-production.lvillegas.workers.dev/static/presidents/perxitaa.webp",
-        "teamId": "los-troncos-fc"
-      }
-    }
-  },
-  {
-    "wins": 4,
     "loses": 5,
-    "scoredGoals": 21,
-    "concededGoals": 23,
-    "CardsYellow": -2,
+    "scoredGoals": 23,
+    "concededGoals": 24,
+    "CardsYellow": -1,
     "cardsRed": 0,
     "rank": 7,
     "team": {
@@ -637,11 +637,11 @@
     }
   },
   {
-    "wins": 4,
+    "wins": 5,
     "loses": 5,
-    "scoredGoals": 28,
-    "concededGoals": 30,
-    "CardsYellow": -2,
+    "scoredGoals": 30,
+    "concededGoals": 31,
+    "CardsYellow": -1,
     "cardsRed": 0,
     "rank": 8,
     "team": {
@@ -730,10 +730,10 @@
     }
   },
   {
-    "wins": 4,
+    "wins": 5,
     "loses": 5,
-    "scoredGoals": 23,
-    "concededGoals": 27,
+    "scoredGoals": 24,
+    "concededGoals": 28,
     "CardsYellow": -4,
     "cardsRed": 0,
     "rank": 9,
@@ -820,11 +820,11 @@
     }
   },
   {
-    "wins": 3,
+    "wins": 4,
     "loses": 6,
-    "scoredGoals": 22,
-    "concededGoals": 22,
-    "CardsYellow": 0,
+    "scoredGoals": 25,
+    "concededGoals": 24,
+    "CardsYellow": 1,
     "cardsRed": 0,
     "rank": 10,
     "team": {
@@ -912,10 +912,10 @@
   },
   {
     "wins": 3,
-    "loses": 6,
-    "scoredGoals": 23,
-    "concededGoals": 30,
-    "CardsYellow": -7,
+    "loses": 7,
+    "scoredGoals": 26,
+    "concededGoals": 36,
+    "CardsYellow": -10,
     "cardsRed": 0,
     "rank": 11,
     "team": {
@@ -1004,11 +1004,11 @@
     }
   },
   {
-    "wins": 0,
+    "wins": 1,
     "loses": 9,
-    "scoredGoals": 17,
-    "concededGoals": 35,
-    "CardsYellow": -18,
+    "scoredGoals": 22,
+    "concededGoals": 36,
+    "CardsYellow": -14,
     "cardsRed": 0,
     "rank": 12,
     "team": {
