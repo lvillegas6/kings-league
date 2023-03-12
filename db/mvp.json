@@ -1,6 +1,14 @@
 [
   {
     "rank": 1,
+    "playerName": "F. Hernández",
+    "gamesPlayed": 8,
+    "mvps": 4,
+    "team": "Aniquiladores FC",
+    "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
+  },
+  {
+    "rank": 2,
     "playerName": "Ubón",
     "gamesPlayed": 9,
     "mvps": 4,
@@ -8,7 +16,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "playerName": "Torrentbó",
     "gamesPlayed": 9,
     "mvps": 3,
@@ -16,7 +24,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "playerName": "J. Verdú",
     "gamesPlayed": 7,
     "mvps": 3,
@@ -24,7 +32,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "playerName": "Lopo",
     "gamesPlayed": 9,
     "mvps": 3,
@@ -32,7 +40,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/pio.svg"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "playerName": "Briones",
     "gamesPlayed": 9,
     "mvps": 3,
@@ -40,7 +48,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "playerName": "Juanma Glez.",
     "gamesPlayed": 9,
     "mvps": 3,
@@ -48,7 +56,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "playerName": "A. Bueno",
     "gamesPlayed": 9,
     "mvps": 2,
@@ -56,7 +64,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "playerName": "Pol",
     "gamesPlayed": 8,
     "mvps": 2,
@@ -64,7 +72,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "playerName": "E. Álvaro",
     "gamesPlayed": 9,
     "mvps": 2,
@@ -72,7 +80,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg"
   },
   {
-    "rank": 10,
+    "rank": 11,
     "playerName": "R. Carbó",
     "gamesPlayed": 9,
     "mvps": 2,
@@ -80,7 +88,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg"
   },
   {
-    "rank": 11,
+    "rank": 12,
     "playerName": "C. Castro",
     "gamesPlayed": 9,
     "mvps": 2,
@@ -88,7 +96,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/xbuyer.svg"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "playerName": "Ricardo",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -96,7 +104,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "playerName": "Sorroche",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -104,7 +112,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/1k.svg"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "playerName": "Daniel P.",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -112,7 +120,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "playerName": "Jacobo",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -120,7 +128,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "playerName": "Pau ZZ",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -128,7 +136,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/el-barrio.svg"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "playerName": "Ibai",
     "gamesPlayed": 4,
     "mvps": 1,
@@ -136,7 +144,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "playerName": "Soriano",
     "gamesPlayed": 6,
     "mvps": 1,
@@ -144,7 +152,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/jijantes.svg"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "playerName": "Víctor",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -152,7 +160,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "playerName": "Kun Agüero",
     "gamesPlayed": 2,
     "mvps": 1,
@@ -160,7 +168,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "playerName": "Coro",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -168,7 +176,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports.svg"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "playerName": "P. Lechuga",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -176,7 +184,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "playerName": "Carlitos",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -184,7 +192,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/pio.svg"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "playerName": "Lao",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -192,7 +200,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg"
   },
   {
-    "rank": 25,
+    "rank": 26,
     "playerName": "G. Cichero",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -200,7 +208,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg"
   },
   {
-    "rank": 26,
+    "rank": 27,
     "playerName": "J. Segovia",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -208,7 +216,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg"
   },
   {
-    "rank": 27,
+    "rank": 28,
     "playerName": "Feliu",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -216,7 +224,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg"
   },
   {
-    "rank": 28,
+    "rank": 29,
     "playerName": "Arché",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -224,7 +232,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg"
   },
   {
-    "rank": 29,
+    "rank": 30,
     "playerName": "Guti",
     "gamesPlayed": 8,
     "mvps": 1,
@@ -232,7 +240,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg"
   },
   {
-    "rank": 30,
+    "rank": 31,
     "playerName": "Poch",
     "gamesPlayed": 9,
     "mvps": 1,
@@ -240,7 +248,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/xbuyer.svg"
   },
   {
-    "rank": 31,
+    "rank": 32,
     "playerName": "Fouad",
     "gamesPlayed": 4,
     "mvps": 1,
@@ -248,7 +256,7 @@
     "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/xbuyer.svg"
   },
   {
-    "rank": 32,
+    "rank": 33,
     "playerName": "Corvo",
     "gamesPlayed": 4,
     "mvps": 1,
