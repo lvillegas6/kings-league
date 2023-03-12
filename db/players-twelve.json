@@ -365,6 +365,20 @@
   },
   {
     "role": "Delantero",
+    "firstName": "David",
+    "lastName": "Acedo",
+    "image": "aniquiladores-fc-7.webp",
+    "name": "David Acedo",
+    "id": "aniquiladores-fc-7",
+    "team": {
+      "id": "aniquiladores-fc",
+      "name": "Aniquiladores FC",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg",
+      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/aniquiladores-inverse.svg"
+    }
+  },
+  {
+    "role": "Delantero",
     "firstName": "Ibai",
     "lastName": "Gómez",
     "image": "jijantes-fc-11.webp",
@@ -431,20 +445,6 @@
       "name": "XBUYER TEAM",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/xbuyer.svg",
       "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/xbuyer-inverse.svg"
-    }
-  },
-  {
-    "role": "Delantero",
-    "firstName": "David",
-    "lastName": "Acedo",
-    "image": "aniquiladores-fc-7.webp",
-    "name": "David Acedo",
-    "id": "aniquiladores-fc-7",
-    "team": {
-      "id": "aniquiladores-fc",
-      "name": "Aniquiladores FC",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg",
-      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/aniquiladores-inverse.svg"
     }
   },
   {
