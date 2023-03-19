@@ -1,10 +1,10 @@
 [
   {
-    "wins": 7,
-    "loses": 4,
-    "scoredGoals": 21,
-    "concededGoals": 18,
-    "CardsYellow": 3,
+    "wins": 0,
+    "loses": 0,
+    "scoredGoals": 0,
+    "concededGoals": 0,
+    "CardsYellow": 0,
     "cardsRed": 0,
     "rank": 1,
     "team": {
@@ -90,11 +90,11 @@
     }
   },
   {
-    "wins": 8,
-    "loses": 3,
-    "scoredGoals": 34,
-    "concededGoals": 27,
-    "CardsYellow": 7,
+    "wins": 0,
+    "loses": 0,
+    "scoredGoals": 0,
+    "concededGoals": 0,
+    "CardsYellow": 0,
     "cardsRed": 0,
     "rank": 2,
     "team": {
@@ -180,11 +180,11 @@
     }
   },
   {
-    "wins": 7,
-    "loses": 4,
-    "scoredGoals": 37,
-    "concededGoals": 26,
-    "CardsYellow": 11,
+    "wins": 0,
+    "loses": 0,
+    "scoredGoals": 0,
+    "concededGoals": 0,
+    "CardsYellow": 0,
     "cardsRed": 0,
     "rank": 3,
     "team": {
@@ -271,11 +271,11 @@
     }
   },
   {
-    "wins": 7,
-    "loses": 4,
-    "scoredGoals": 23,
-    "concededGoals": 22,
-    "CardsYellow": 1,
+    "wins": 0,
+    "loses": 0,
+    "scoredGoals": 0,
+    "concededGoals": 0,
+    "CardsYellow": 0,
     "cardsRed": 0,
     "rank": 4,
     "team": {
@@ -361,11 +361,11 @@
     }
   },
   {
-    "wins": 5,
-    "loses": 6,
-    "scoredGoals": 33,
-    "concededGoals": 25,
-    "CardsYellow": 8,
+    "wins": 0,
+    "loses": 0,
+    "scoredGoals": 0,
+    "concededGoals": 0,
+    "CardsYellow": 0,
     "cardsRed": 0,
     "rank": 5,
     "team": {
@@ -454,11 +454,11 @@
     }
   },
   {
-    "wins": 7,
-    "loses": 4,
-    "scoredGoals": 40,
-    "concededGoals": 34,
-    "CardsYellow": 6,
+    "wins": 0,
+    "loses": 0,
+    "scoredGoals": 0,
+    "concededGoals": 0,
+    "CardsYellow": 0,
     "cardsRed": 0,
     "rank": 6,
     "team": {
@@ -547,10 +547,10 @@
     }
   },
   {
-    "wins": 6,
-    "loses": 5,
-    "scoredGoals": 25,
-    "concededGoals": 25,
+    "wins": 0,
+    "loses": 0,
+    "scoredGoals": 0,
+    "concededGoals": 0,
     "CardsYellow": 0,
     "cardsRed": 0,
     "rank": 7,
@@ -637,11 +637,11 @@
     }
   },
   {
-    "wins": 5,
-    "loses": 6,
-    "scoredGoals": 32,
-    "concededGoals": 34,
-    "CardsYellow": -2,
+    "wins": 0,
+    "loses": 0,
+    "scoredGoals": 0,
+    "concededGoals": 0,
+    "CardsYellow": 0,
     "cardsRed": 0,
     "rank": 8,
     "team": {
@@ -730,11 +730,11 @@
     }
   },
   {
-    "wins": 5,
-    "loses": 6,
-    "scoredGoals": 24,
-    "concededGoals": 28,
-    "CardsYellow": -4,
+    "wins": 0,
+    "loses": 0,
+    "scoredGoals": 0,
+    "concededGoals": 0,
+    "CardsYellow": 0,
     "cardsRed": 0,
     "rank": 9,
     "team": {
@@ -820,11 +820,11 @@
     }
   },
   {
-    "wins": 4,
-    "loses": 7,
-    "scoredGoals": 25,
-    "concededGoals": 24,
-    "CardsYellow": 1,
+    "wins": 0,
+    "loses": 0,
+    "scoredGoals": 0,
+    "concededGoals": 0,
+    "CardsYellow": 0,
     "cardsRed": 0,
     "rank": 10,
     "team": {
@@ -911,11 +911,11 @@
     }
   },
   {
-    "wins": 3,
-    "loses": 8,
-    "scoredGoals": 27,
-    "concededGoals": 40,
-    "CardsYellow": -13,
+    "wins": 0,
+    "loses": 0,
+    "scoredGoals": 0,
+    "concededGoals": 0,
+    "CardsYellow": 0,
     "cardsRed": 0,
     "rank": 11,
     "team": {
@@ -1004,11 +1004,11 @@
     }
   },
   {
-    "wins": 1,
-    "loses": 10,
-    "scoredGoals": 23,
-    "concededGoals": 41,
-    "CardsYellow": -18,
+    "wins": 0,
+    "loses": 0,
+    "scoredGoals": 0,
+    "concededGoals": 0,
+    "CardsYellow": 0,
     "cardsRed": 0,
     "rank": 12,
     "team": {
