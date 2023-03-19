@@ -85,7 +85,7 @@
     {
       "rank": 1,
       "playerName": "F. Hernández",
-      "gamesPlayed": 8,
+      "gamesPlayed": 9,
       "mvps": 4,
       "team": "Aniquiladores FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg",
@@ -95,7 +95,7 @@
     {
       "rank": 2,
       "playerName": "Ubón",
-      "gamesPlayed": 9,
+      "gamesPlayed": 10,
       "mvps": 4,
       "team": "El Barrio",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/el-barrio.svg",
@@ -104,8 +104,18 @@
     },
     {
       "rank": 3,
+      "playerName": "A. Bueno",
+      "gamesPlayed": 10,
+      "mvps": 3,
+      "team": "1K FC",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/1k.svg",
+      "playerImage": "placeholder.png",
+      "teamId": "1k"
+    },
+    {
+      "rank": 4,
       "playerName": "Torrentbó",
-      "gamesPlayed": 9,
+      "gamesPlayed": 10,
       "mvps": 3,
       "team": "Kunisports",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports.svg",
@@ -113,44 +123,23 @@
       "teamId": "kunisports"
     },
     {
-      "rank": 4,
-      "playerName": "J. Verdú",
-      "gamesPlayed": 7,
+      "rank": 5,
+      "playerName": "Verdú, J.",
+      "gamesPlayed": 8,
       "mvps": 3,
       "team": "Los Troncos FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg",
       "playerImage": "placeholder.png",
       "teamId": "los-troncos-fc"
-    },
-    {
-      "rank": 5,
-      "playerName": "Lopo",
-      "gamesPlayed": 9,
-      "mvps": 3,
-      "team": "PIO FC",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/pio.svg",
-      "playerImage": "pio-fc-lopo.webp",
-      "teamId": "pio-fc"
     }
   ],
   "topScorers": [
     {
       "ranking": "1",
-      "playerName": "Ubón",
-      "gamesPlayed": 9,
-      "goals": 11,
-      "rank": 1,
-      "team": "El Barrio",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/el-barrio.svg",
-      "playerImage": "el-barrio-ubn.webp",
-      "teamId": "el-barrio"
-    },
-    {
-      "ranking": "1",
       "playerName": "A. Bueno",
-      "gamesPlayed": 9,
-      "goals": 11,
-      "rank": 2,
+      "gamesPlayed": 10,
+      "goals": 12,
+      "rank": 1,
       "team": "1K FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/1k.svg",
       "playerImage": "placeholder.png",
@@ -158,42 +147,53 @@
     },
     {
       "ranking": "1",
-      "playerName": "Juanma Glez.",
-      "gamesPlayed": 9,
-      "goals": 10,
-      "rank": 3,
-      "team": "Ultimate Móstoles",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg",
-      "playerImage": "ultimate-mostoles-juanma-glez.webp",
-      "teamId": "ultimate-mostoles"
+      "playerName": "Ubón",
+      "gamesPlayed": 10,
+      "goals": 11,
+      "rank": 2,
+      "team": "El Barrio",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/el-barrio.svg",
+      "playerImage": "el-barrio-ubn.webp",
+      "teamId": "el-barrio"
     },
     {
       "ranking": "1",
-      "playerName": "E. Álvaro",
-      "gamesPlayed": 9,
-      "goals": 9,
-      "rank": 4,
+      "playerName": "Álvaro, E.",
+      "gamesPlayed": 10,
+      "goals": 11,
+      "rank": 3,
       "team": "Los Troncos FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg",
-      "playerImage": "los-troncos-fc-e-álvaro.webp",
+      "playerImage": "placeholder.png",
       "teamId": "los-troncos-fc"
     },
     {
       "ranking": "1",
       "playerName": "Pelaz",
-      "gamesPlayed": 9,
-      "goals": 8,
-      "rank": 5,
+      "gamesPlayed": 10,
+      "goals": 10,
+      "rank": 4,
       "team": "Rayo de Barcelona",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/rayo-barcelona.svg",
       "playerImage": "rayo-barcelona-pelaz.webp",
       "teamId": "rayo-barcelona"
+    },
+    {
+      "ranking": "1",
+      "playerName": "Juanma Glez.",
+      "gamesPlayed": 10,
+      "goals": 10,
+      "rank": 5,
+      "team": "Ultimate Móstoles",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg",
+      "playerImage": "ultimate-mostoles-juanma-glez.webp",
+      "teamId": "ultimate-mostoles"
     }
   ],
   "topAssists": [
     {
       "playerName": "A. Bueno",
-      "gamesPlayed": 9,
+      "gamesPlayed": 10,
       "assists": 8,
       "rank": 1,
       "team": "1K FC",
@@ -203,7 +203,7 @@
     },
     {
       "playerName": "Coro",
-      "gamesPlayed": 9,
+      "gamesPlayed": 10,
       "assists": 6,
       "rank": 2,
       "team": "Kunisports",
@@ -213,7 +213,7 @@
     },
     {
       "playerName": "Cokita",
-      "gamesPlayed": 9,
+      "gamesPlayed": 10,
       "assists": 6,
       "rank": 3,
       "team": "PIO FC",
@@ -223,7 +223,7 @@
     },
     {
       "playerName": "H. Fraile",
-      "gamesPlayed": 7,
+      "gamesPlayed": 8,
       "assists": 6,
       "rank": 4,
       "team": "Porcinos FC",
@@ -232,14 +232,14 @@
       "teamId": "porcinos-fc"
     },
     {
-      "playerName": "Espinosa",
-      "gamesPlayed": 8,
-      "assists": 5,
+      "playerName": "Franky P.",
+      "gamesPlayed": 10,
+      "assists": 6,
       "rank": 5,
-      "team": "Porcinos FC",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/porcinos-fc.svg",
-      "playerImage": "porcinos-fc-espinosa.webp",
-      "teamId": "porcinos-fc"
+      "team": "Rayo de Barcelona",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/rayo-barcelona.svg",
+      "playerImage": "rayo-barcelona-franky-p.webp",
+      "teamId": "rayo-barcelona"
     }
   ]
 }
