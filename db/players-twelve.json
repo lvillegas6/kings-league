@@ -392,6 +392,20 @@
     }
   },
   {
+    "role": "Medio",
+    "firstName": "Enigma",
+    "lastName": "",
+    "image": "xbuyer-team-69.webp",
+    "name": "Enigma ",
+    "id": "xbuyer-team-69",
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/xbuyer.svg",
+      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/xbuyer-inverse.svg"
+    }
+  },
+  {
     "role": "Delantero",
     "firstName": "David",
     "lastName": "Acedo",
@@ -459,20 +473,6 @@
       "name": "Ultimate Móstoles",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg",
       "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles-inverse.svg"
-    }
-  },
-  {
-    "role": "Medio",
-    "firstName": "Enigma",
-    "lastName": "",
-    "image": "xbuyer-team-69.webp",
-    "name": "Enigma ",
-    "id": "xbuyer-team-69",
-    "team": {
-      "id": "xbuyer-team",
-      "name": "XBUYER TEAM",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/xbuyer.svg",
-      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/xbuyer-inverse.svg"
     }
   },
   {
