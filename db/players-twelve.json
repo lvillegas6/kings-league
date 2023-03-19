@@ -379,6 +379,20 @@
   },
   {
     "role": "Medio",
+    "firstName": "Víctor",
+    "lastName": "Sánchez",
+    "image": "los-troncos-fc-20.webp",
+    "name": "Víctor Sánchez",
+    "id": "los-troncos-fc-20",
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg",
+      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos-inverse.svg"
+    }
+  },
+  {
+    "role": "Medio",
     "firstName": "Javi",
     "lastName": "Márquez",
     "image": "pio-fc-5.webp",
@@ -445,20 +459,6 @@
       "name": "Jijantes FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/jijantes.svg",
       "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/jijantes-inverse.svg"
-    }
-  },
-  {
-    "role": "Medio",
-    "firstName": "Víctor",
-    "lastName": "Sánchez",
-    "image": "los-troncos-fc-20.webp",
-    "name": "Víctor Sánchez",
-    "id": "los-troncos-fc-20",
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg",
-      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos-inverse.svg"
     }
   },
   {
