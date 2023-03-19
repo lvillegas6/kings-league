@@ -1,6 +1,20 @@
 [
   {
     "role": "Delantero",
+    "firstName": "M.",
+    "lastName": "Del Castillo",
+    "image": "kunisports-Kunisports_96.webp",
+    "name": "M. Del Castillo",
+    "id": "kunisports-Kunisports_96",
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports.svg",
+      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports-inverse.svg"
+    }
+  },
+  {
+    "role": "Delantero",
     "firstName": "Fernandão",
     "lastName": "",
     "image": "saiyans-fc-Saiyans_6.webp",
@@ -71,10 +85,10 @@
   },
   {
     "role": "Medio",
-    "firstName": "Armando",
+    "firstName": "Mandi",
     "lastName": "Sosa",
     "image": "rayo-barcelona-RayoBCN_3.webp",
-    "name": "Armando Sosa",
+    "name": "Mandi Sosa",
     "id": "rayo-barcelona-RayoBCN_3",
     "team": {
       "id": "rayo-barcelona",
