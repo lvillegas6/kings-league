@@ -138,7 +138,7 @@
       "ranking": "1",
       "playerName": "Ubón",
       "gamesPlayed": 12,
-      "goals": 15,
+      "goals": 17,
       "rank": 1,
       "team": "El Barrio",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/el-barrio.svg",
@@ -149,7 +149,7 @@
       "ranking": "1",
       "playerName": "E. Álvaro",
       "gamesPlayed": 12,
-      "goals": 14,
+      "goals": 15,
       "rank": 2,
       "team": "Los Troncos FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg",
@@ -169,25 +169,25 @@
     },
     {
       "ranking": "1",
-      "playerName": "J. Verdú",
-      "gamesPlayed": 10,
-      "goals": 11,
-      "rank": 4,
-      "team": "Los Troncos FC",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg",
-      "playerImage": "placeholder.png",
-      "teamId": "los-troncos-fc"
-    },
-    {
-      "ranking": "1",
       "playerName": "R. Carbó",
       "gamesPlayed": 12,
-      "goals": 11,
-      "rank": 5,
+      "goals": 13,
+      "rank": 4,
       "team": "Saiyans FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/saiyans-fc.svg",
       "playerImage": "saiyans-fc-r-carbó.webp",
       "teamId": "saiyans-fc"
+    },
+    {
+      "ranking": "1",
+      "playerName": "J. Verdú",
+      "gamesPlayed": 10,
+      "goals": 11,
+      "rank": 5,
+      "team": "Los Troncos FC",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg",
+      "playerImage": "placeholder.png",
+      "teamId": "los-troncos-fc"
     }
   ],
   "topAssists": [
