@@ -1,6 +1,34 @@
 [
   {
     "role": "Delantero",
+    "firstName": "Gerard",
+    "lastName": "Tejedor",
+    "image": "kunisports-Kunisports_20.webp",
+    "name": "Gerard Tejedor",
+    "id": "kunisports-Kunisports_20",
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports.svg",
+      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports-inverse.svg"
+    }
+  },
+  {
+    "role": "Delantero",
+    "firstName": "Adrià",
+    "lastName": "de Mesa",
+    "image": "ultimate-mostoles-U.webp",
+    "name": "Adrià de Mesa",
+    "id": "ultimate-mostoles-U",
+    "team": {
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles.svg",
+      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/ultimate-mostoles-inverse.svg"
+    }
+  },
+  {
+    "role": "Delantero",
     "firstName": "Mauricio",
     "lastName": "del Castillo",
     "image": "kunisports-Kunisports_96.webp",
@@ -15,10 +43,10 @@
   },
   {
     "role": "Delantero",
-    "firstName": "M.",
-    "lastName": "Del Castillo",
+    "firstName": "Mauricio",
+    "lastName": "del Castillo",
     "image": "kunisports-Kunisports_96.webp",
-    "name": "M. Del Castillo",
+    "name": "Mauricio del Castillo",
     "id": "kunisports-Kunisports_96",
     "team": {
       "id": "kunisports",
