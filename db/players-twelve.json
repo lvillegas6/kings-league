@@ -1,5 +1,19 @@
 [
   {
+    "role": "Medio",
+    "firstName": "Spursito",
+    "lastName": "",
+    "image": "rayo-barcelona-RayoBCN_7B.webp",
+    "name": "Spursito ",
+    "id": "rayo-barcelona-RayoBCN_7B",
+    "team": {
+      "id": "rayo-barcelona",
+      "name": "Rayo de Barcelona",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/rayo-barcelona.svg",
+      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/rayo-barcelona-inverse.svg"
+    }
+  },
+  {
     "role": "Delantero",
     "firstName": "Gerard",
     "lastName": "Tejedor",
@@ -29,24 +43,10 @@
   },
   {
     "role": "Delantero",
-    "firstName": "Mauricio",
-    "lastName": "del Castillo",
+    "firstName": "M. del Castillo",
+    "lastName": "",
     "image": "kunisports-Kunisports_96.webp",
-    "name": "Mauricio del Castillo",
-    "id": "kunisports-Kunisports_96",
-    "team": {
-      "id": "kunisports",
-      "name": "Kunisports",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports.svg",
-      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/kunisports-inverse.svg"
-    }
-  },
-  {
-    "role": "Delantero",
-    "firstName": "Mauricio",
-    "lastName": "del Castillo",
-    "image": "kunisports-Kunisports_96.webp",
-    "name": "Mauricio del Castillo",
+    "name": "M. del Castillo ",
     "id": "kunisports-Kunisports_96",
     "team": {
       "id": "kunisports",
@@ -73,9 +73,9 @@
     "role": "Delantero",
     "firstName": "Ezequiel",
     "lastName": "Calvente",
-    "image": "aniquiladores-fc-Aniquiladores_28.webp",
+    "image": "aniquiladores-fc-Aniquiladores_28-1.webp",
     "name": "Ezequiel Calvente",
-    "id": "aniquiladores-fc-Aniquiladores_28",
+    "id": "aniquiladores-fc-Aniquiladores_28-1",
     "team": {
       "id": "aniquiladores-fc",
       "name": "Aniquiladores FC",
@@ -420,6 +420,34 @@
     }
   },
   {
+    "role": "Delantero",
+    "firstName": "Ibai",
+    "lastName": "Gómez",
+    "image": "jijantes-fc-11.webp",
+    "name": "Ibai Gómez",
+    "id": "jijantes-fc-11",
+    "team": {
+      "id": "jijantes-fc",
+      "name": "Jijantes FC",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/jijantes.svg",
+      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/jijantes-inverse.svg"
+    }
+  },
+  {
+    "role": "Medio",
+    "firstName": "Víctor",
+    "lastName": "Sánchez",
+    "image": "los-troncos-fc-20.webp",
+    "name": "Víctor Sánchez",
+    "id": "los-troncos-fc-20",
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg",
+      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos-inverse.svg"
+    }
+  },
+  {
     "role": "Medio",
     "firstName": "Javi",
     "lastName": "Márquez",
@@ -473,34 +501,6 @@
       "name": "Aniquiladores FC",
       "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/aniquiladores.svg",
       "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/aniquiladores-inverse.svg"
-    }
-  },
-  {
-    "role": "Delantero",
-    "firstName": "Ibai",
-    "lastName": "Gómez",
-    "image": "jijantes-fc-11.webp",
-    "name": "Ibai Gómez",
-    "id": "jijantes-fc-11",
-    "team": {
-      "id": "jijantes-fc",
-      "name": "Jijantes FC",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/jijantes.svg",
-      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/jijantes-inverse.svg"
-    }
-  },
-  {
-    "role": "Medio",
-    "firstName": "Víctor",
-    "lastName": "Sánchez",
-    "image": "los-troncos-fc-20.webp",
-    "name": "Víctor Sánchez",
-    "id": "los-troncos-fc-20",
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos.svg",
-      "imageWhite": "https://kings-league-api-production.lvillegas.workers.dev/static/logos/teams/los-troncos-inverse.svg"
     }
   },
   {
